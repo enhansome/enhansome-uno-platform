@@ -1,0 +1,250 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uno Platform",
+          "description": "Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T15:11:20Z",
+            "owner": "unoplatform",
+            "repo": "uno",
+            "stars": 10010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Samples",
+          "description": "A growing collection of code samples and snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:03:12Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Samples",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Themes",
+          "description": "Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T13:10:04Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Themes",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Gallery",
+          "description": "Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T16:50:29Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Gallery",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Toolkit",
+          "description": "Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T20:47:50Z",
+            "owner": "unoplatform",
+            "repo": "uno.toolkit.ui",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Core",
+          "description": "Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-09T21:13:00Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Core",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno UI Test",
+          "description": "Cross-platform UI testing library for Android, iOS and WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T23:11:17Z",
+            "owner": "unoplatform",
+            "repo": "Uno.UITest",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Repositories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Community Toolkit for Uno",
+          "description": "Uno Platform fork of Microsoft Community Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T18:35:01Z",
+            "owner": "unoplatform",
+            "repo": "Uno.WindowsCommunityToolkit",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telerik UI for Uno",
+          "description": "Fork of Telerik UI for UWP to support Uno Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-24T22:03:49Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Telerik.UI-For-UWP",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NuGet Package Explorer",
+          "description": "Source code of the Uno Platform version of NuGet Package Explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T23:23:54Z",
+            "owner": "NuGetPackageExplorer",
+            "repo": "NuGetPackageExplorer",
+            "stars": 2545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Calculator",
+          "description": "Port of the Windows 10 Calculator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-26T22:09:10Z",
+            "owner": "unoplatform",
+            "repo": "calculator",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Playground",
+          "description": "Uno Playground app with UI samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T21:57:43Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Playground",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UADO",
+          "description": "Azure DevOps backlog viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-16T02:44:48Z",
+            "owner": "unoplatform",
+            "repo": "uado",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ch9",
+          "description": "Channel 9 browser app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-08T20:24:33Z",
+            "owner": "unoplatform",
+            "repo": "Uno.Ch9",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COduo",
+          "description": "Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-09T21:18:40Z",
+            "owner": "ibebbs",
+            "repo": "CODuo",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Open-source apps"
+    },
+    {
+      "description": "Your contributions welcome! Please read the contribution guidelines before creating a pull request.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:53:26.450Z",
+    "original_repository": "MartinZikmund/awesome-uno-platform",
+    "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
+    "enhanced_repository": "enhansome/enhansome-uno-platform",
+    "enhanced_repository_description": null,
+    "title": "Awesome Uno Platform with stars"
+  }
+}
