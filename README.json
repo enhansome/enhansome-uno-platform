@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T15:11:20Z",
+            "last_commit": "2026-08-14T12:40:45Z",
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10010
+            "stars": 10009
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T13:10:04Z",
+            "last_commit": "2026-08-14T14:44:45Z",
             "owner": "unoplatform",
             "repo": "Uno.Themes",
             "stars": 188
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-22T23:11:17Z",
+            "last_commit": "2026-08-13T19:58:55Z",
             "owner": "unoplatform",
             "repo": "Uno.UITest",
             "stars": 13
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:53:26.450Z",
+    "last_updated": "2026-08-14T15:44:12.912Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
