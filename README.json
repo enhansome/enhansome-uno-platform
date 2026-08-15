@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T12:40:45Z",
+            "last_commit": "2026-08-15T14:12:41Z",
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10009
+            "stars": 10010
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-10T20:47:50Z",
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:44:12.912Z",
+    "last_updated": "2026-08-15T15:14:01.152Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
