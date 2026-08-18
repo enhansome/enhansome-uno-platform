@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T12:21:15Z",
+            "last_commit": "2026-08-18T15:13:36Z",
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10011
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T17:11:40Z",
+            "last_commit": "2026-08-17T19:35:13Z",
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 260
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-05T23:23:54Z",
             "owner": "NuGetPackageExplorer",
             "repo": "NuGetPackageExplorer",
-            "stars": 2545
+            "stars": 2546
           }
         },
         {
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:14:53.977Z",
+    "last_updated": "2026-08-18T15:24:47.677Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
