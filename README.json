@@ -12,10 +12,10 @@
             "archived": false,
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-19T15:04:40Z",
+            "last_commit": "2026-08-20T13:44:43Z",
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10015
+            "stars": 10016
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 137144359,
             "language": "C#",
-            "last_commit": "2026-08-19T15:23:51Z",
+            "last_commit": "2026-08-20T15:20:36Z",
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 260
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 257947710,
             "language": "C#",
-            "last_commit": "2026-08-19T14:46:28Z",
+            "last_commit": "2026-08-20T14:44:14Z",
             "owner": "unoplatform",
             "repo": "Uno.Themes",
             "stars": 188
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-05T23:23:54Z",
             "owner": "NuGetPackageExplorer",
             "repo": "NuGetPackageExplorer",
-            "stars": 2546
+            "stars": 2548
           }
         },
         {
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:24:35.779Z",
+    "last_updated": "2026-08-20T15:27:26.191Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_id": 198378608,
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
