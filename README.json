@@ -12,7 +12,7 @@
             "archived": false,
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-23T14:30:52Z",
+            "last_commit": "2026-08-24T14:42:12Z",
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10017
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 257947710,
             "language": "C#",
-            "last_commit": "2026-08-21T18:21:55Z",
+            "last_commit": "2026-08-24T12:51:52Z",
             "owner": "unoplatform",
             "repo": "Uno.Themes",
             "stars": 188
@@ -150,6 +150,28 @@
           "description": null,
           "node_type": "group",
           "title": "Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elmish.Uno",
+              "description": "Half-Elmish framework for apps written in F#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327431996,
+                "language": "F#",
+                "last_commit": "2025-07-22T19:47:10Z",
+                "owner": "xperiandri",
+                "repo": "Elmish.Uno",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compatibility"
         }
       ],
       "title": "Libraries"
@@ -252,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:15:56.124Z",
+    "last_updated": "2026-08-24T14:42:28.662Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_id": 198378608,
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
