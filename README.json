@@ -12,7 +12,7 @@
             "archived": false,
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-24T14:42:12Z",
+            "last_commit": "2026-08-24T15:31:18Z",
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10017
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:28.662Z",
+    "last_updated": "2026-08-24T15:33:03.753Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_id": 198378608,
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
