@@ -12,10 +12,10 @@
             "archived": false,
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-24T15:31:18Z",
+            "last_commit": "2026-08-25T06:35:41Z",
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10017
+            "stars": 10018
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 137144359,
             "language": "C#",
-            "last_commit": "2026-08-22T13:37:59Z",
+            "last_commit": "2026-08-24T16:45:44Z",
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 260
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:33:03.753Z",
+    "last_updated": "2026-08-25T06:38:24.263Z",
     "original_repository": "MartinZikmund/awesome-uno-platform",
     "original_repository_id": 198378608,
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
