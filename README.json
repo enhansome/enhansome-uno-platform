@@ -12,10 +12,10 @@
             "archived": false,
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-26T15:45:46Z",
+            "last_commit": "2026-08-27T10:51:37Z",
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10019
+            "stars": 10021
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 137144359,
             "language": "C#",
-            "last_commit": "2026-08-26T16:03:35Z",
+            "last_commit": "2026-08-26T16:46:17Z",
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 260
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 257947710,
             "language": "C#",
-            "last_commit": "2026-08-24T12:51:52Z",
+            "last_commit": "2026-08-27T11:59:54Z",
             "owner": "unoplatform",
             "repo": "Uno.Themes",
             "stars": 188
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 360271174,
             "language": "C#",
-            "last_commit": "2026-08-21T20:01:09Z",
+            "last_commit": "2026-08-27T12:03:24Z",
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
             "stars": 111
@@ -128,7 +128,7 @@
                 "last_commit": "2026-07-17T18:35:01Z",
                 "owner": "unoplatform",
                 "repo": "Uno.WindowsCommunityToolkit",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -206,7 +206,7 @@
             "last_commit": "2025-08-26T22:09:10Z",
             "owner": "unoplatform",
             "repo": "calculator",
-            "stars": 414
+            "stars": 415
           }
         },
         {
@@ -274,9 +274,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:13:03.699Z",
-    "original_repository": "MartinZikmund/awesome-uno-platform",
-    "original_repository_id": 198378608,
+    "last_updated": "2026-08-27T12:08:44.261Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 198378608,
+      "language": null,
+      "last_commit": "2025-05-20T11:32:57Z",
+      "owner": "MartinZikmund",
+      "repo": "awesome-uno-platform",
+      "stars": 81
+    },
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
     "enhanced_repository_description": null,
