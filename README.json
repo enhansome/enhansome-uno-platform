@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.",
+            "homepage": "https://platform.uno",
             "id": 132453438,
             "language": "C#",
-            "last_commit": "2026-08-28T21:32:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:10:43Z",
+            "open_issues": 1598,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10020
+            "stars": 10020,
+            "topics": [
+              "android",
+              "c-sharp",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "mono",
+              "mvvm",
+              "roslyn",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "windows",
+              "winui",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -26,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of code samples for the Uno Platform",
+            "homepage": "http://platform.uno/",
             "id": 137144359,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:18:35Z",
+            "open_issues": 136,
             "owner": "unoplatform",
             "repo": "Uno.Samples",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "android",
+              "csharp",
+              "hacktoberfest",
+              "ios",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -42,12 +84,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library is designed to help you use the Material, Fluent or Cupertino design system with the Uno Platform",
+            "homepage": "https://platform.uno",
             "id": 257947710,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:47:18Z",
+            "open_issues": 210,
             "owner": "unoplatform",
             "repo": "Uno.Themes",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "android",
+              "cross-platform",
+              "csharp",
+              "hacktoberfest",
+              "macos",
+              "material-design",
+              "uno-platform",
+              "uwp",
+              "webassembly",
+              "windows",
+              "winui",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -58,12 +119,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Uno Platform Gallery application",
+            "homepage": "https://platform.uno/",
             "id": 274238059,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-08T16:50:29Z",
+            "open_issues": 167,
             "owner": "unoplatform",
             "repo": "Uno.Gallery",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "csharp",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "mono",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -74,12 +151,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of custom controls for the WinUI and the Uno Platform not offered out of the box by WinUI, such as Card, TabBar, NavigationBar, etc.",
+            "homepage": "https://platform.uno/",
             "id": 360271174,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:32:50Z",
+            "open_issues": 228,
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "csharp",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "mono",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -90,12 +183,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uno.Core is a set of helpers and extension methods used to accelerate development.",
+            "homepage": null,
             "id": 119849360,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-09T21:13:00Z",
+            "open_issues": 10,
             "owner": "unoplatform",
             "repo": "Uno.Core",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "csharp",
+              "netstandard20"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -106,12 +207,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified UI Testing Framework for Uno Platform based applications",
+            "homepage": "https://platform.uno",
             "id": 192003205,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T19:58:55Z",
+            "open_issues": 24,
             "owner": "unoplatform",
             "repo": "Uno.UITest",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "android",
+              "csharp",
+              "ios",
+              "uitest",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "winrt",
+              "winui",
+              "xamarin-uitest"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         }
@@ -130,12 +247,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.",
+                "homepage": "https://docs.microsoft.com/windows/uwpcommunitytoolkit/",
                 "id": 137125287,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-17T18:35:01Z",
+                "open_issues": 29,
                 "owner": "unoplatform",
                 "repo": "Uno.WindowsCommunityToolkit",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "android",
+                  "csharp",
+                  "ios",
+                  "uno-platform",
+                  "uwp",
+                  "wasm",
+                  "webassembly",
+                  "windows",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T23:48:49.018Z"
             },
@@ -146,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.",
+                "homepage": "http://www.telerik.com/uwp/",
                 "id": 142472965,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-24T22:03:49Z",
+                "open_issues": 0,
                 "owner": "unoplatform",
                 "repo": "Uno.Telerik.UI-For-UWP",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:49.018Z"
             }
@@ -169,12 +306,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static UWP views for elmish programs running with the Uno Platform",
+                "homepage": null,
                 "id": 327431996,
                 "language": "F#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-22T19:47:10Z",
+                "open_issues": 10,
                 "owner": "xperiandri",
                 "repo": "Elmish.Uno",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "elmish",
+                  "made-by-ukrainians",
+                  "maui",
+                  "unoplatform",
+                  "uwp",
+                  "winui",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T23:48:49.018Z"
             }
@@ -196,12 +346,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create, update and deploy Nuget Packages with a GUI",
+            "homepage": null,
             "id": 42267778,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-05T23:23:54Z",
+            "open_issues": 108,
             "owner": "NuGetPackageExplorer",
             "repo": "NuGetPackageExplorer",
-            "stars": 2548
+            "stars": 2548,
+            "topics": [
+              "gui-application",
+              "hacktoberfest",
+              "nuget-client",
+              "nuget-packages"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -212,12 +372,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows",
+            "homepage": "https://calculator.platform.uno",
             "id": 185818902,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-08-26T22:09:10Z",
+            "open_issues": 61,
             "owner": "unoplatform",
             "repo": "calculator",
-            "stars": 415
+            "stars": 415,
+            "topics": [
+              "android",
+              "appimage",
+              "calculator",
+              "csharp",
+              "dotnet",
+              "emscripten",
+              "hacktoberfest",
+              "ios",
+              "linux",
+              "snap",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -228,12 +408,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the Uno Gallery apps and Uno Playground (made in Wasm)",
+            "homepage": "https://playground.platform.uno/",
             "id": 132635682,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-08T21:57:43Z",
+            "open_issues": 28,
             "owner": "unoplatform",
             "repo": "Uno.Playground",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "csharp",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "mono",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -244,12 +440,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Azure DevOps Organizer - Uno Reference Implementation project",
+            "homepage": "https://uado.platform.uno",
             "id": 185139791,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-04-16T02:44:48Z",
+            "open_issues": 25,
             "owner": "unoplatform",
             "repo": "uado",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "android",
+              "azure-devops",
+              "csharp",
+              "ios",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "web",
+              "webassembly",
+              "winui",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -260,12 +474,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ch9 - Uno Reference Implementation project",
+            "homepage": "https://platform.uno/",
             "id": 260208462,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-08T20:24:33Z",
+            "open_issues": 21,
             "owner": "unoplatform",
             "repo": "Uno.Ch9",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "csharp",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "mono",
+              "uno",
+              "uno-platform",
+              "uwp",
+              "wasm",
+              "webassembly",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         },
@@ -276,12 +506,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform, dual-screen aware app that presents data about electricity generation and carbon emissions across the UK. Showcase app for the Uno Platform on dual screen devices.",
+            "homepage": null,
             "id": 240068404,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-09T21:18:40Z",
+            "open_issues": 3,
             "owner": "ibebbs",
             "repo": "CODuo",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "carbon",
+              "carbon-emissions",
+              "dual-screen",
+              "electricity",
+              "energy",
+              "sustainability",
+              "uno-platform",
+              "uwp",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
         }
@@ -290,15 +535,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:48:49.018Z",
+    "last_updated": "2026-08-29T05:02:39.715Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
+      "homepage": "https://platform.uno/",
       "id": 198378608,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-05-20T11:32:57Z",
+      "open_issues": 1,
       "owner": "MartinZikmund",
       "repo": "awesome-uno-platform",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "ios",
+        "linux",
+        "macos",
+        "uno-platform",
+        "uwp",
+        "webassembly",
+        "winappsdk"
+      ]
     },
     "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
