@@ -41,19 +41,19 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,031 | 🐛 1,641 | 🌐 C# | 📅 2026-09-02 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
-* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 261 | 🐛 138 | 🌐 C# | 📅 2026-09-02 - A growing collection of code samples and snippets.
-* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 188 | 🐛 213 | 🌐 C# | 📅 2026-09-02 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,032 | 🐛 1,658 | 🌐 C# | 📅 2026-09-03 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 261 | 🐛 138 | 🌐 C# | 📅 2026-09-03 - A growing collection of code samples and snippets.
+* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 188 | 🐛 214 | 🌐 C# | 📅 2026-09-03 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 173 | 🐛 167 | 🌐 C# | 📅 2026-07-08 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
-* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 111 | 🐛 232 | 🌐 C# | 📅 2026-09-01 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
-* [Uno Core](https://github.com/unoplatform/Uno.Core) ⭐ 41 | 🐛 10 | 🌐 C# | 📅 2026-04-09 - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
+* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 111 | 🐛 234 | 🌐 C# | 📅 2026-09-03 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
+* [Uno Core](https://github.com/unoplatform/Uno.Core) ⭐ 41 | 🐛 11 | 🌐 C# | 📅 2026-09-03 - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
 * [Uno UI Test](https://github.com/unoplatform/Uno.UITest) ⭐ 13 | 🐛 24 | 🌐 C# | 📅 2026-08-13 - Cross-platform UI testing library for Android, iOS and WebAssembly.
 
 ## Tools
 
 * [Uno Platform extension for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=unoplatform.uno-platform-addin-2022) - Adds Uno Platform project templates and hot reload functionality to Visual Studio 2022.
 * [Uno Platform extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) - Adds a range of productivity boosters to Visual Studio Code, including XAML IntelliSense, Hot Reload, and mobile target debugging support.
-* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 372 | 🌐 C# | 📅 2026-08-29 - A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.
+* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 372 | 🌐 C# | 📅 2026-09-03 - A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.
 * [Uno Platform for Figma Plugin](https://www.figma.com/community/plugin/1045528009520465828/Uno-Platform-\(Figma-to-XAML\)) - Figma Plugin to generate responsive XAML from High-fidelity designs.
 * [Uno Material Toolkit](https://www.figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit) - Figma File to use with Uno Figma Plugin.
 
@@ -129,4 +129,4 @@ Your contributions welcome! Please read the [contribution guidelines](contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
