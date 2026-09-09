@@ -41,11 +41,11 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,039 | 🐛 1,682 | 🌐 C# | 📅 2026-09-08 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,041 | 🐛 1,694 | 🌐 C# | 📅 2026-09-09 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
 * [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 261 | 🐛 136 | 🌐 C# | 📅 2026-09-07 - A growing collection of code samples and snippets.
-* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 188 | 🐛 215 | 🌐 C# | 📅 2026-09-08 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
+* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 188 | 🐛 212 | 🌐 C# | 📅 2026-09-09 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 173 | 🐛 167 | 🌐 C# | 📅 2026-07-08 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
-* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 111 | 🐛 233 | 🌐 C# | 📅 2026-09-08 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
+* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 111 | 🐛 234 | 🌐 C# | 📅 2026-09-09 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
 * [Uno Core](https://github.com/unoplatform/Uno.Core) ⭐ 41 | 🐛 10 | 🌐 C# | 📅 2026-09-08 - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
 * [Uno UI Test](https://github.com/unoplatform/Uno.UITest) ⭐ 13 | 🐛 24 | 🌐 C# | 📅 2026-08-13 - Cross-platform UI testing library for Android, iOS and WebAssembly.
 
@@ -129,4 +129,4 @@ Your contributions welcome! Please read the [contribution guidelines](contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
