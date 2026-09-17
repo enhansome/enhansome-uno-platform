@@ -15,11 +15,11 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T18:18:35Z",
-            "open_issues": 1700,
+            "last_commit": "2026-09-17T17:02:06Z",
+            "open_issues": 1706,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10052,
+            "stars": 10050,
             "topics": [
               "android",
               "c-sharp",
@@ -57,8 +57,8 @@
             "id": 137144359,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T15:52:36Z",
-            "open_issues": 143,
+            "last_commit": "2026-09-17T15:59:54Z",
+            "open_issues": 144,
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 261,
@@ -156,7 +156,7 @@
             "id": 360271174,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-14T17:33:57Z",
+            "last_commit": "2026-09-17T15:42:43Z",
             "open_issues": 232,
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
@@ -355,7 +355,7 @@
             "open_issues": 108,
             "owner": "NuGetPackageExplorer",
             "repo": "NuGetPackageExplorer",
-            "stars": 2546,
+            "stars": 2548,
             "topics": [
               "gui-application",
               "hacktoberfest",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:36:08.911Z",
+    "last_updated": "2026-09-17T18:43:58.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
