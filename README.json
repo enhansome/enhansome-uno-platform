@@ -15,11 +15,11 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T18:20:20Z",
-            "open_issues": 1681,
+            "last_commit": "2026-09-25T18:40:26Z",
+            "open_issues": 1744,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10060,
+            "stars": 10058,
             "topics": [
               "android",
               "c-sharp",
@@ -61,7 +61,7 @@
             "open_issues": 145,
             "owner": "unoplatform",
             "repo": "Uno.Samples",
-            "stars": 262,
+            "stars": 261,
             "topics": [
               "android",
               "csharp",
@@ -89,11 +89,11 @@
             "id": 257947710,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T17:41:48Z",
-            "open_issues": 216,
+            "last_commit": "2026-09-25T15:15:19Z",
+            "open_issues": 215,
             "owner": "unoplatform",
             "repo": "Uno.Themes",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "android",
               "cross-platform",
@@ -156,11 +156,11 @@
             "id": 360271174,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:10:36Z",
+            "last_commit": "2026-09-25T14:14:12Z",
             "open_issues": 238,
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
-            "stars": 111,
+            "stars": 110,
             "topics": [
               "csharp",
               "first-timers-friendly",
@@ -216,7 +216,7 @@
             "open_issues": 24,
             "owner": "unoplatform",
             "repo": "Uno.UITest",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "android",
               "csharp",
@@ -417,7 +417,7 @@
             "open_issues": 29,
             "owner": "unoplatform",
             "repo": "Uno.Playground",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "csharp",
               "first-timers-friendly",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:46:50.062Z",
+    "last_updated": "2026-09-25T19:04:34.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
