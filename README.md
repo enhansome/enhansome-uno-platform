@@ -41,11 +41,11 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,066 | 🐛 1,874 | 🌐 C# | 📅 2026-10-09 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
-* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 262 | 🐛 146 | 🌐 C# | 📅 2026-10-09 - A growing collection of code samples and snippets.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,069 | 🐛 1,846 | 🌐 C# | 📅 2026-10-10 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 262 | 🐛 147 | 🌐 C# | 📅 2026-10-10 - A growing collection of code samples and snippets.
 * [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 187 | 🐛 223 | 🌐 C# | 📅 2026-10-09 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 173 | 🐛 170 | 🌐 C# | 📅 2026-10-02 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
-* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 110 | 🐛 236 | 🌐 C# | 📅 2026-10-09 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
+* [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 110 | 🐛 238 | 🌐 C# | 📅 2026-10-09 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
 * [Uno Core](https://github.com/unoplatform/Uno.Core) ⭐ 41 | 🐛 11 | 🌐 C# | 📅 2026-10-08 - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
 * [Uno UI Test](https://github.com/unoplatform/Uno.UITest) ⭐ 12 | 🐛 24 | 🌐 C# | 📅 2026-08-13 - Cross-platform UI testing library for Android, iOS and WebAssembly.
 
@@ -61,7 +61,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### Toolkits
 
-* [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) ⭐ 65 | 🐛 30 | 🌐 C# | 📅 2026-10-09 - Uno Platform fork of Microsoft Community Toolkit.
+* [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) ⭐ 65 | 🐛 30 | 🌐 C# | 📅 2026-10-10 - Uno Platform fork of Microsoft Community Toolkit.
 * [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2025-03-24 - Fork of Telerik UI for UWP to support Uno Platform.
 
 ### MVVM
@@ -93,7 +93,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Open-source apps
 
-* [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/tree/main/Uno) ⭐ 2,550 | 🐛 109 | 🌐 C# | 📅 2026-10-08 - Source code of the Uno Platform version of NuGet Package Explorer.
+* [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/tree/main/Uno) ⭐ 2,551 | 🐛 109 | 🌐 C# | 📅 2026-10-08 - Source code of the Uno Platform version of NuGet Package Explorer.
 * [Uno Calculator](https://github.com/unoplatform/calculator) ⭐ 415 | 🐛 61 | 🌐 C# | 📅 2025-08-26 - Port of the Windows 10 Calculator.
 * [Uno Playground](https://github.com/unoplatform/Uno.Playground) ⭐ 220 | 🐛 29 | 🌐 C# | 📅 2026-09-30 - Uno Playground app with UI samples.
 * [UADO](https://github.com/unoplatform/uado) ⭐ 83 | 🐛 25 | 🌐 C# | 📅 2022-04-16 - Azure DevOps backlog viewer.
@@ -129,4 +129,4 @@ Your contributions welcome! Please read the [contribution guidelines](contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
