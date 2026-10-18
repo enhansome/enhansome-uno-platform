@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T00:38:56Z",
-            "open_issues": 2080,
+            "open_issues": 2087,
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10080,
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:41:38.699Z",
+    "last_updated": "2026-10-18T17:43:39.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
