@@ -41,7 +41,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,080 | 🐛 2,087 | 🌐 C# | 📅 2026-10-17 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,080 | 🐛 2,083 | 🌐 C# | 📅 2026-10-19 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
 * [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 262 | 🐛 148 | 🌐 C# | 📅 2026-10-14 - A growing collection of code samples and snippets.
 * [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 187 | 🐛 220 | 🌐 C# | 📅 2026-10-16 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 173 | 🐛 172 | 🌐 C# | 📅 2026-10-16 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
@@ -53,7 +53,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 * [Uno Platform extension for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=unoplatform.uno-platform-addin-2022) - Adds Uno Platform project templates and hot reload functionality to Visual Studio 2022.
 * [Uno Platform extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode) - Adds a range of productivity boosters to Visual Studio Code, including XAML IntelliSense, Hot Reload, and mobile target debugging support.
-* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 402 | 🌐 C# | 📅 2026-10-17 - A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.
+* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 402 | 🌐 C# | 📅 2026-10-19 - A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.
 * [Uno Platform for Figma Plugin](https://www.figma.com/community/plugin/1045528009520465828/Uno-Platform-\(Figma-to-XAML\)) - Figma Plugin to generate responsive XAML from High-fidelity designs.
 * [Uno Material Toolkit](https://www.figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit) - Figma File to use with Uno Figma Plugin.
 
@@ -61,7 +61,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### Toolkits
 
-* [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) ⭐ 65 | 🐛 33 | 🌐 C# | 📅 2026-10-17 - Uno Platform fork of Microsoft Community Toolkit.
+* [Windows Community Toolkit for Uno](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) ⭐ 65 | 🐛 32 | 🌐 C# | 📅 2026-10-19 - Uno Platform fork of Microsoft Community Toolkit.
 * [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2025-03-24 - Fork of Telerik UI for UWP to support Uno Platform.
 
 ### MVVM
@@ -129,4 +129,4 @@ Your contributions welcome! Please read the [contribution guidelines](contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
