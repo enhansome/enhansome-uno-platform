@@ -15,11 +15,11 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T13:25:58Z",
-            "open_issues": 2157,
+            "last_commit": "2026-10-25T00:43:07Z",
+            "open_issues": 2175,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10083,
+            "stars": 10085,
             "topics": [
               "android",
               "c-sharp",
@@ -355,7 +355,7 @@
             "open_issues": 109,
             "owner": "NuGetPackageExplorer",
             "repo": "NuGetPackageExplorer",
-            "stars": 2549,
+            "stars": 2550,
             "topics": [
               "gui-application",
               "hacktoberfest",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:44:58.726Z",
+    "last_updated": "2026-10-25T18:01:07.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
