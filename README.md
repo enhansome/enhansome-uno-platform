@@ -41,7 +41,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,098 | 🐛 2,103 | 🌐 C# | 📅 2026-10-31 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,099 | 🐛 2,118 | 🌐 C# | 📅 2026-11-01 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
 * [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 263 | 🐛 150 | 🌐 C# | 📅 2026-10-31 - A growing collection of code samples and snippets.
 * [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 186 | 🐛 219 | 🌐 C# | 📅 2026-10-29 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 171 | 🐛 156 | 🌐 C# | 📅 2026-10-29 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
@@ -129,4 +129,4 @@ Your contributions welcome! Please read the [contribution guidelines](contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
