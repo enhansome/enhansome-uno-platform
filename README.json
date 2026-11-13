@@ -15,8 +15,8 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T21:03:13Z",
-            "open_issues": 2373,
+            "last_commit": "2026-11-13T20:47:50Z",
+            "open_issues": 2441,
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10117,
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:40:56.797Z",
+    "last_updated": "2026-11-13T21:07:42.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
@@ -547,7 +547,7 @@
       "open_issues": 2,
       "owner": "MartinZikmund",
       "repo": "awesome-uno-platform",
-      "stars": 81,
+      "stars": 82,
       "topics": [
         "android",
         "awesome",
