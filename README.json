@@ -15,11 +15,11 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:22:14Z",
-            "open_issues": 2480,
+            "last_commit": "2026-11-17T22:05:31Z",
+            "open_issues": 2479,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10124,
+            "stars": 10123,
             "topics": [
               "android",
               "c-sharp",
@@ -156,7 +156,7 @@
             "id": 360271174,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T19:00:10Z",
+            "last_commit": "2026-11-17T20:52:58Z",
             "open_issues": 243,
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:37:02.921Z",
+    "last_updated": "2026-11-17T22:44:35.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
