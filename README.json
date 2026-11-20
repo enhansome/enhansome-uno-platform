@@ -15,11 +15,11 @@
             "id": 132453438,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T22:14:29Z",
-            "open_issues": 2450,
+            "last_commit": "2026-11-20T21:28:12Z",
+            "open_issues": 2444,
             "owner": "unoplatform",
             "repo": "uno",
-            "stars": 10126,
+            "stars": 10128,
             "topics": [
               "android",
               "c-sharp",
@@ -57,8 +57,8 @@
             "id": 137144359,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T22:09:11Z",
-            "open_issues": 145,
+            "last_commit": "2026-11-20T20:41:24Z",
+            "open_issues": 146,
             "owner": "unoplatform",
             "repo": "Uno.Samples",
             "stars": 265,
@@ -89,7 +89,7 @@
             "id": 257947710,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T20:31:01Z",
+            "last_commit": "2026-11-20T20:28:02Z",
             "open_issues": 216,
             "owner": "unoplatform",
             "repo": "Uno.Themes",
@@ -156,8 +156,8 @@
             "id": 360271174,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T21:48:24Z",
-            "open_issues": 242,
+            "last_commit": "2026-11-20T20:43:41Z",
+            "open_issues": 241,
             "owner": "unoplatform",
             "repo": "uno.toolkit.ui",
             "stars": 109,
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "Uno UI Test",
-          "description": "Cross-platform UI testing library for Android, iOS and WebAssembly.",
+          "description": "Xamarin.UITest-style UI testing, using Selenium for WebAssembly and Xamarin.UITest for Android and iOS.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,39 +242,572 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Windows Community Toolkit for Uno",
-              "description": "Uno Platform fork of Microsoft Community Toolkit.",
+              "title": "XAML Styler",
+              "description": "XAML formatter for Visual Studio, Rider and the command line, used to enforce markup style in the official repositories.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.",
-                "homepage": "https://docs.microsoft.com/windows/uwpcommunitytoolkit/",
-                "id": 137125287,
+                "description": "Visual Studio extension to help format your XAML source code",
+                "homepage": null,
+                "id": 57232299,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-14T23:52:00Z",
+                "open_issues": 124,
+                "owner": "Xavalon",
+                "repo": "XamlStyler",
+                "stars": 1385,
+                "topics": [
+                  "jetbrains-rider",
+                  "uwp",
+                  "uwp-applications",
+                  "uwp-apps",
+                  "visual-studio-extension",
+                  "xaml",
+                  "xaml-source",
+                  "xaml-styler"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DevToolsUno",
+              "description": "In-app diagnostics for inspecting the live visual tree, bindings, resources, styles, events and memory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DevToolsUno is an in-app diagnostics package for Uno Platform applications.",
+                "homepage": null,
+                "id": 1192067524,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-08-18T08:37:15Z",
+                "open_issues": 0,
+                "owner": "wieslawsoltes",
+                "repo": "DevToolsUno",
+                "stars": 8,
+                "topics": [
+                  "devtools",
+                  "diagnostics",
+                  "uno",
+                  "uno-platform"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE and Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uno Platform Studio Agent Plugin",
+              "description": "Agent plugin with an app-building agent, topic skills (MVUX, navigation, Toolkit, themes, testing) and Hot Reload hooks for Claude Code, GitHub Copilot and Codex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Uno Platform Studio Repository",
+                "homepage": "https://aka.platform.uno/studio",
+                "id": 901382377,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T10:05:20Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-19T16:05:33Z",
+                "open_issues": 50,
                 "owner": "unoplatform",
-                "repo": "Uno.WindowsCommunityToolkit",
-                "stars": 64,
+                "repo": "studio",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dotnet-agentic-engineering (dna)",
+              "description": "Agent directives, skills and tooling that detect a repo's stack (MVUX or MVVM, C# Markup, design system, SDK version) and install a matching skill set.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Battle-tested agentic engineering for .NET, Aspire, Azure, Fabric, Orleans and Uno Platform",
+                "homepage": null,
+                "id": 1180701433,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-17T12:44:20Z",
+                "open_issues": 2,
+                "owner": "VincentH-Net",
+                "repo": "dotnet-agentic-engineering",
+                "stars": 10,
+                "topics": [
+                  "agentic-engineering",
+                  "battle-tested",
+                  "claude",
+                  "codex",
+                  "csharp",
+                  "dotnet",
+                  "gpt",
+                  "opus",
+                  "uno-platform"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno Platform Skills",
+              "description": "Claude Code skills covering MVUX, navigation, Toolkit, Material theming, C# Markup, WebAssembly and WPF migration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Skills for Uno Platform development and WinUI 3 XAML best practices.",
+                "homepage": null,
+                "id": 1146093061,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-04-07T13:16:49Z",
+                "open_issues": 0,
+                "owner": "noknowscode",
+                "repo": "UnoPlatformSkills",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Velopack",
+              "description": "Installer and auto-update framework for desktop apps, with an official Uno sample and setup guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Installer and automatic update framework for cross-platform desktop applications",
+                "homepage": "https://velopack.io",
+                "id": 737512858,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-16T22:15:14Z",
+                "open_issues": 59,
+                "owner": "velopack",
+                "repo": "velopack",
+                "stars": 2484,
+                "topics": [
+                  "automatic-updates",
+                  "autoupdate",
+                  "clickonce",
+                  "desktop",
+                  "dotnet",
+                  "installer",
+                  "linux",
+                  "macos",
+                  "osx",
+                  "squirrel",
+                  "updater",
+                  "velopack",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.Wasm.Bootstrap",
+              "description": "MSBuild package that builds and hosts .NET code in the browser via WebAssembly, with AOT and PWA support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple nuget package to run C# code in a WASM-compatible browser",
+                "homepage": null,
+                "id": 129971581,
+                "language": "WebAssembly",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-13T19:09:23Z",
+                "open_issues": 80,
+                "owner": "unoplatform",
+                "repo": "Uno.Wasm.Bootstrap",
+                "stars": 383,
+                "topics": [
+                  "csharp",
+                  "hacktoberfest",
+                  "mono",
+                  "netstandard20",
+                  "wasm",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DependencyPropertyGenerator",
+              "description": "Source generator for dependency properties, routed events and weak events, with automatic Uno detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dependency property, routed event and weak event source generator for WPF/UWP/WinUI/Uno/Avalonia/MAUI platforms.",
+                "homepage": null,
+                "id": 490205201,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-16T03:36:33Z",
+                "open_issues": 4,
+                "owner": "HavenDV",
+                "repo": "DependencyPropertyGenerator",
+                "stars": 155,
+                "topics": [
+                  "avalonia",
+                  "avaloniaui",
+                  "csharp",
+                  "csharp-sourcegenerator",
+                  "dependency-property",
+                  "dotnet",
+                  "dp",
+                  "generator",
+                  "incrementral-generator",
+                  "maui",
+                  "net5",
+                  "net6",
+                  "routed-event",
+                  "source-generator",
+                  "uno",
+                  "uno-platform",
+                  "uwp",
+                  "winui",
+                  "wpf"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.Check",
+              "description": "CLI that checks and installs the SDKs, workloads and tooling needed for each target platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CLI tool to setup your environment to build Uno Platform apps",
+                "homepage": "https://platform.uno",
+                "id": 360647976,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-11-19T19:28:44Z",
+                "open_issues": 93,
+                "owner": "unoplatform",
+                "repo": "uno.check",
+                "stars": 48,
+                "topics": [
+                  "dotnet",
+                  "dotnet-core",
+                  "hacktoberfest",
+                  "uno-platform"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.Templates and Uno.Sdk",
+              "description": "The app and library templates plus the single-project MSBuild SDK they build on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Uno Platform project templates",
+                "homepage": "https://platform.uno/",
+                "id": 619948729,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-20T18:13:32Z",
+                "open_issues": 117,
+                "owner": "unoplatform",
+                "repo": "uno.templates",
+                "stars": 29,
                 "topics": [
                   "android",
-                  "csharp",
+                  "browser",
+                  "desktop",
+                  "dotnet",
+                  "hacktoberfest",
                   "ios",
+                  "linux",
+                  "uno-platform",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.Resizetizer",
+              "description": "Build-time generation of app icons, splash screens and scaled images from SVG or PNG sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Uno.Resizetizer, an image resizting tooling for Uno Platform apps",
+                "homepage": "https://platform.uno",
+                "id": 567339924,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-18T17:35:19Z",
+                "open_issues": 68,
+                "owner": "unoplatform",
+                "repo": "uno.resizetizer",
+                "stars": 18,
+                "topics": [
+                  "dotnet",
+                  "hacktoberfest",
+                  "uno",
+                  "uno-platform",
+                  "webassembly",
+                  "winui"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.XamlMerge.Task",
+              "description": "MSBuild task that merges a control library's resource dictionaries into a single file for faster resource lookup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://platform.uno/",
+                "id": 436307826,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-11T02:27:50Z",
+                "open_issues": 8,
+                "owner": "unoplatform",
+                "repo": "uno.xamlmerge.task",
+                "stars": 7,
+                "topics": [
+                  "csharp",
+                  "first-timers-friendly",
+                  "mono",
+                  "uno",
                   "uno-platform",
                   "uwp",
                   "wasm",
                   "webassembly",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build and Deployment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uno.UI.RuntimeTests.Engine",
+              "description": "In-app MSTest runner for UI tests on devices, desktop and the browser, with NUnit reports and CI sharding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "In-App MS Tests Runner for Uno Platform and WinAppSDK",
+                "homepage": "https://platform.uno/",
+                "id": 540608109,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-19T22:26:07Z",
+                "open_issues": 30,
+                "owner": "unoplatform",
+                "repo": "uno.ui.runtimetests.engine",
+                "stars": 9,
+                "topics": [
+                  "dotnet",
+                  "mstestv2",
+                  "unoplatform",
+                  "webassembly",
+                  "winappsdk",
+                  "winui3",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Windows Community Toolkit",
+              "description": "Microsoft-backed collection of WinUI controls, helpers and extensions that ships builds for every target.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Collection of controls, helpers and extension for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.",
+                "homepage": "https://aka.ms/windowstoolkitdocs",
+                "id": 614574318,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-27T01:30:49Z",
+                "open_issues": 240,
+                "owner": "CommunityToolkit",
+                "repo": "Windows",
+                "stars": 1083,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "toolkit",
+                  "uno-platform",
+                  "uwp",
+                  "wasdk",
+                  "winappsdk",
                   "windows",
+                  "windows-app-sdk",
+                  "windows10",
+                  "windows11",
+                  "winui",
+                  "winui-controls",
+                  "winui2",
+                  "winui3",
                   "xaml"
                 ]
               },
-              "first_seen": "2026-08-28T23:48:49.018Z"
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno Extensions",
+              "description": "NuGet packages for navigation, DI, configuration, HTTP, localization and the MVUX reactive pattern.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Libraries to ease common developer tasks associated with building multi-platform mobile, desktop and web applications using Uno Platform or WinAppSDK.",
+                "homepage": "https://platform.uno/",
+                "id": 364693172,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-19T23:49:17Z",
+                "open_issues": 411,
+                "owner": "unoplatform",
+                "repo": "uno.extensions",
+                "stars": 101,
+                "topics": [
+                  "csharp",
+                  "first-timers-friendly",
+                  "hacktoberfest",
+                  "mono",
+                  "uno",
+                  "uno-platform",
+                  "uwp",
+                  "wasm",
+                  "webassembly",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CherylUI.Uno",
+              "description": "Mobile-styled controls and styles ported from the CherylUI library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CherylUI for Uno Platform",
+                "homepage": null,
+                "id": 989047261,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-06-03T07:25:40Z",
+                "open_issues": 0,
+                "owner": "kikipoulet",
+                "repo": "CherylUI.Uno",
+                "stars": 85,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dt (搬运工)",
+              "description": "Chinese-language framework for rapid line-of-business apps, with reusable client controls and backend microservices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "利用 C# + XAML 进行快速业务开发的跨平台框架（搬运工）",
+                "homepage": "https://github.com/daoting/dt",
+                "id": 197095784,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-11-17T03:50:50Z",
+                "open_issues": 9,
+                "owner": "Daoting",
+                "repo": "dt",
+                "stars": 61,
+                "topics": [
+                  "android",
+                  "asp-net-core",
+                  "c-sharp",
+                  "cross-platform",
+                  "macos",
+                  "maui",
+                  "rpc",
+                  "uno",
+                  "webassembly",
+                  "windows",
+                  "winui",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Flowery.Uno",
+              "description": "Over 100 DaisyUI-inspired themed controls, localized in 12 languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Beautiful themed components for Uno Platform in C#",
+                "homepage": null,
+                "id": 1146567086,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-16T06:50:13Z",
+                "open_issues": 5,
+                "owner": "tobitege",
+                "repo": "Flowery.Uno",
+                "stars": 16,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "opensource",
+                  "uno-platform",
+                  "winui-controls"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
             },
             {
               "node_type": "item",
               "title": "Telerik UI for Uno",
-              "description": "Fork of Telerik UI for UWP to support Uno Platform.",
+              "description": "Community port of the open-source Telerik UI for UWP controls.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,6 +824,79 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:48:49.018Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.Fonts",
+              "description": "Font packages with Fluent and MDL2 icon fonts as drop-in Segoe replacements, plus Roboto, Open Sans and Inter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Uno Platform Fonts",
+                "homepage": "https://platform.uno/",
+                "id": 285912102,
+                "language": "PowerShell",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-03T03:48:52Z",
+                "open_issues": 14,
+                "owner": "unoplatform",
+                "repo": "uno.fonts",
+                "stars": 12,
+                "topics": [
+                  "csharp",
+                  "first-timers-friendly",
+                  "mono",
+                  "uno",
+                  "uno-platform",
+                  "uwp",
+                  "wasm",
+                  "webassembly",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Infragistics Ultimate UI for Uno Platform",
+              "description": "Commercial (beta) charts, data grid, geographic maps, gauges and dashboard components, with a samples browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Infragistics Ultimate UI for Uno product samples",
+                "homepage": null,
+                "id": 344573832,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T19:16:56Z",
+                "open_issues": 6,
+                "owner": "Infragistics",
+                "repo": "uno-samples",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MZikmund Toolkit",
+              "description": "Reusable app services such as preferences storage and a ContentDialog coordinator, with a gallery sample app, by Martin Zikmund.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Toolkit",
+                "homepage": null,
+                "id": 786402383,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-08T17:09:34Z",
+                "open_issues": 62,
+                "owner": "MartinZikmund",
+                "repo": "mzikmund-toolkit",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
             }
           ],
           "description": null,
@@ -299,6 +905,1142 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "ScottPlot",
+              "description": "Interactive plotting library built for large scientific and high-density datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive plotting library for .NET",
+                "homepage": "https://ScottPlot.net",
+                "id": 116210568,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-08-15T21:45:11Z",
+                "open_issues": 255,
+                "owner": "ScottPlot",
+                "repo": "ScottPlot",
+                "stars": 6804,
+                "topics": [
+                  "chart",
+                  "charting",
+                  "charts",
+                  "csharp",
+                  "data-visualization",
+                  "dotnet",
+                  "graphics",
+                  "plot",
+                  "plotting",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LiveCharts2",
+              "description": "Interactive, animated charts, maps and gauges drawn with SkiaSharp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.",
+                "homepage": "https://livecharts.dev",
+                "id": 337897094,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-19T05:14:08Z",
+                "open_issues": 52,
+                "owner": "Live-Charts",
+                "repo": "LiveCharts2",
+                "stars": 5511,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mapsui",
+              "description": "Map component with tile layers, vector data and touch interaction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mapsui is a .NET Map component for: MAUI, Avalonia, Uno Platform, Blazor, WPF, WinUI, Windows Forms, Eto Forms, .NET for Android and .NET for iOS",
+                "homepage": "https://mapsui.com",
+                "id": 17453792,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-17T19:41:40Z",
+                "open_issues": 160,
+                "owner": "Mapsui",
+                "repo": "Mapsui",
+                "stars": 1582,
+                "topics": [
+                  "avalonia",
+                  "blazor",
+                  "eto-forms",
+                  "geo",
+                  "geospatial",
+                  "gis",
+                  "map",
+                  "mapping",
+                  "mapsui",
+                  "maui",
+                  "openstreetmap",
+                  "osm",
+                  "uno-platform",
+                  "wpf",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CSharpMath",
+              "description": "LaTeX math typesetting and rendering, ported from iosMath.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LaTeX. in C#. (ported from the wonderful iosMath project).",
+                "homepage": null,
+                "id": 105953532,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-08-31T16:29:27Z",
+                "open_issues": 90,
+                "owner": "verybadcat",
+                "repo": "CSharpMath",
+                "stars": 460,
+                "topics": [
+                  "dotnet",
+                  "formula",
+                  "latex",
+                  "math",
+                  "rendering"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WinUI.TableView",
+              "description": "Lightweight, fast DataGrid control with Excel-like column filtering, sorting, editing and export.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A light weight TableView/DataGrid for WinUI. ",
+                "homepage": "https://w-ahmad.dev/WinUI.TableView/",
+                "id": 749550387,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T19:29:43Z",
+                "open_issues": 71,
+                "owner": "w-ahmad",
+                "repo": "WinUI.TableView",
+                "stars": 373,
+                "topics": [
+                  "cross-platform",
+                  "datagrid",
+                  "tableview",
+                  "uno",
+                  "uno-platform",
+                  "winappsdk",
+                  "windowsappsdk",
+                  "winui",
+                  "winui3"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FluentIcons",
+              "description": "Fluent UI System Icons as icon controls, icon sources and markup extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A multi-framework control library of https://github.com/microsoft/fluentui-system-icons",
+                "homepage": "https://davidxuang.github.io/FluentIcons/",
+                "id": 478533629,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-19T07:55:17Z",
+                "open_issues": 2,
+                "owner": "davidxuang",
+                "repo": "FluentIcons",
+                "stars": 226,
+                "topics": [
+                  "avalonia",
+                  "cross-platform",
+                  "csharp",
+                  "desktop",
+                  "desktop-app",
+                  "desktop-application",
+                  "dotnet",
+                  "fluent",
+                  "fluent-design",
+                  "fluentui",
+                  "icon",
+                  "icons",
+                  "maui",
+                  "mobile",
+                  "mobile-app",
+                  "uno-platform",
+                  "uwp",
+                  "webassembly",
+                  "winui",
+                  "wpf"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WinUI.Dock",
+              "description": "Visual Studio-style docking controls, with limited floating-window support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Docked controls similar to Visual Studio, available with WinUI 3 and Uno Platform.",
+                "homepage": null,
+                "id": 934058515,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-09-21T04:35:59Z",
+                "open_issues": 4,
+                "owner": "qian-o",
+                "repo": "WinUI.Dock",
+                "stars": 92,
+                "topics": [
+                  "uno-platform",
+                  "winui3"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Broadside",
+              "description": "Fully managed PDF library for reading, writing, editing and rendering, with an embeddable viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fully managed .NET PDF library: read, write, edit, render.",
+                "homepage": "https://michaelstonis.github.io/Broadside/",
+                "id": 1412044858,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T21:27:12Z",
+                "open_issues": 42,
+                "owner": "michaelstonis",
+                "repo": "Broadside",
+                "stars": 81,
+                "topics": [
+                  "avalonia",
+                  "csharp",
+                  "dotnet",
+                  "iso-32000",
+                  "maui",
+                  "pdf",
+                  "rendering",
+                  "skiasharp",
+                  "uno-platform"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DesktopFlyouts",
+              "description": "Desktop flyouts shown from tray icons or programmatically, including on Linux with X11.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Show WinUI desktop flyouts from tray icons or programmatically.",
+                "homepage": null,
+                "id": 1058228022,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-19T08:00:34Z",
+                "open_issues": 5,
+                "owner": "0x5bfa",
+                "repo": "DesktopFlyouts",
+                "stars": 49,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RibbonSpace",
+              "description": "Office-style ribbon with adaptive layouts, contextual tabs, backstage, Quick Access Toolbar and KeyTips.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Office-style Ribbon control for Uno Platform: adaptive layouts, contextual tabs, backstage, Quick Access Toolbar, KeyTips, galleries, theming and full MVVM support.",
+                "homepage": "https://wieslawsoltes.github.io/RibbonSpace/",
+                "id": 1398681273,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-19T03:42:29Z",
+                "open_issues": 6,
+                "owner": "wieslawsoltes",
+                "repo": "RibbonSpace",
+                "stars": 35,
+                "topics": [
+                  "backstage",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "fluent-design",
+                  "keytips",
+                  "mvvm",
+                  "nuget",
+                  "office-ui",
+                  "quick-access-toolbar",
+                  "ribbon",
+                  "ribbon-control",
+                  "toolbar",
+                  "ui-controls",
+                  "uno-platform",
+                  "webassembly",
+                  "winui",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pysar",
+              "description": "Report engine for paginated documents with an in-app report view, PDF export, printing and sharing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform report engine for .NET. Describe a paginated document once in .rxaml markup or a fluent C# builder, supply your data, and get a vector PDF, bitmap pages, or an in-app view — rendered by plain .NET on SkiaSharp across Windows, macOS, Linux, Android, iOS and the browser (MAUI, Avalonia, WPF, Blazor). MIT licensed.",
+                "homepage": null,
+                "id": 1349915706,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-01T17:14:27Z",
+                "open_issues": 0,
+                "owner": "MriyaLab",
+                "repo": "Pysar",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno Monaco Editor",
+              "description": "Monaco (VS Code) code editor control with language providers, diff view and two-way text binding for WebAssembly and desktop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Windows Runtime Component wrapper around the web-based Monaco Editor.",
+                "homepage": null,
+                "id": 142300386,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-12T11:47:51Z",
+                "open_issues": 1,
+                "owner": "unoplatform",
+                "repo": "uno.monaco.editor",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UnoEdit",
+              "description": "Code editor control with syntax highlighting, ported from AvalonEdit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UnoEdit, cross platform code editor for Uno Platform. Derived from AvalonEdit.",
+                "homepage": null,
+                "id": 1203710175,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-08-06T06:20:41Z",
+                "open_issues": 0,
+                "owner": "lextudio",
+                "repo": "UnoEdit",
+                "stars": 10,
+                "topics": [
+                  "code-editor",
+                  "editor",
+                  "uno-platform",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UnoKeyboard",
+              "description": "On-screen virtual keyboard for touch-screen desktop, Windows and WebAssembly apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "On screen virtual keyboard for Desktop, Windows and WASM platforms.",
+                "homepage": null,
+                "id": 829330228,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-01-31T18:21:44Z",
+                "open_issues": 1,
+                "owner": "mcNets",
+                "repo": "UnoKeyboard",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UnoDock",
+              "description": "IDE-style docking with documents, tool windows, auto-hide, floating windows and themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "IDE-style docking for Uno Platform: documents, tool windows, auto-hide, native floating windows and themes on Windows, macOS, Linux and WebAssembly.",
+                "homepage": "https://wieslawsoltes.github.io/UnoDock/",
+                "id": 1380447421,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-18T22:37:45Z",
+                "open_issues": 1,
+                "owner": "wieslawsoltes",
+                "repo": "UnoDock",
+                "stars": 6,
+                "topics": [
+                  "cross-platform",
+                  "csharp",
+                  "dock",
+                  "docking",
+                  "docking-library",
+                  "dotnet",
+                  "floating-windows",
+                  "ide",
+                  "layout",
+                  "mvvm",
+                  "nuget",
+                  "tool-windows",
+                  "uno-platform",
+                  "webassembly",
+                  "winui",
+                  "winui3",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno ColorCode",
+              "description": "Syntax highlighting library that renders source code into a RichTextBlock or HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is a port of ColorCode to .NET Standard. The original Html only formatter has been separated from the Logic, so now it can produce Syntax Highlighted code for any output. This Project can currently produce HTML, and Render to UWP RichTextBlocks.",
+                "homepage": null,
+                "id": 137364546,
+                "language": "C#",
+                "license": "MS-PL",
+                "last_commit": "2026-11-12T09:25:08Z",
+                "open_issues": 0,
+                "owner": "unoplatform",
+                "repo": "Uno.ColorCode-Universal",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ScreenKeyboard",
+              "description": "Themable on-screen keyboard with glide typing, gestures, emoji and 90+ layouts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Professional on-screen keyboard for Uno Platform: glide (swipe) typing, gestures, emoji, clipboard, smart suggestions, 90+ FlorisBoard layouts, 70+ languages, fully themable.",
+                "homepage": "https://wieslawsoltes.github.io/ScreenKeyboardControl/",
+                "id": 1396554228,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-17T04:16:56Z",
+                "open_issues": 4,
+                "owner": "wieslawsoltes",
+                "repo": "ScreenKeyboardControl",
+                "stars": 1,
+                "topics": [
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "emoji",
+                  "florisboard",
+                  "glide-typing",
+                  "keyboard",
+                  "kiosk",
+                  "nuget",
+                  "on-screen-keyboard",
+                  "soft-keyboard",
+                  "swipe-typing",
+                  "touch-keyboard",
+                  "uno-platform",
+                  "unoplatform",
+                  "virtual-keyboard",
+                  "webassembly",
+                  "winui"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Controls"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SkiaSharp",
+              "description": "Cross-platform 2D graphics API based on Google's Skia, with XAML canvas views.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.",
+                "homepage": "https://mono.github.io/SkiaSharp/",
+                "id": 52293126,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T19:08:51Z",
+                "open_issues": 925,
+                "owner": "mono",
+                "repo": "SkiaSharp",
+                "stars": 5640,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "dot-net",
+                  "dotnet",
+                  "graphics",
+                  "hacktoberfest",
+                  "ios",
+                  "macos",
+                  "skia",
+                  "skiasharp",
+                  "windows",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Svg.Skia",
+              "description": "SVG rendering library with animated SVG controls and inline SVG authoring in XAML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An SVG rendering library.",
+                "homepage": "https://wieslawsoltes.github.io/Svg.Skia/",
+                "id": 216883277,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-16T13:41:22Z",
+                "open_issues": 3,
+                "owner": "wieslawsoltes",
+                "repo": "Svg.Skia",
+                "stars": 749,
+                "topics": [
+                  "2d",
+                  "avalonia",
+                  "avaloniaui",
+                  "geometry",
+                  "graphics",
+                  "rendering",
+                  "shapes",
+                  "skia",
+                  "skiasharp",
+                  "svg",
+                  "vector",
+                  "vector-graphics"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ProGPU",
+              "description": "WebGPU-based rendering, composition, vector and text engine with an embeddable host control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform GPU rendering, composition, vector, text, compute, and DirectX/LibreWPF/WinUI/Avalonia interop on WebGPU and Silk.NET.",
+                "homepage": "https://wieslawsoltes.github.io/ProGPU/",
+                "id": 1247841253,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-10T17:03:50Z",
+                "open_issues": 7,
+                "owner": "wieslawsoltes",
+                "repo": "ProGPU",
+                "stars": 192,
+                "topics": [
+                  "avalonia",
+                  "composition",
+                  "directx",
+                  "dotnet",
+                  "gpu",
+                  "librewpf",
+                  "progpu",
+                  "rendering",
+                  "silk-net",
+                  "webgpu",
+                  "winui"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zenith.NET",
+              "description": "GPU graphics and compute abstraction over DirectX 12, Metal and Vulkan, with a rendering view control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A cross-platform rendering hardware interface for .NET with a shared C# API for graphics and compute across DirectX 12, Metal 4, and Vulkan 1.4.",
+                "homepage": "https://qian-o.github.io/Zenith.NET",
+                "id": 1008779288,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T16:16:32Z",
+                "open_issues": 1,
+                "owner": "qian-o",
+                "repo": "Zenith.NET",
+                "stars": 190,
+                "topics": [
+                  "cross-platform",
+                  "csharp",
+                  "directx",
+                  "dotnet",
+                  "gpu-computing",
+                  "graphics-api",
+                  "metal",
+                  "rhi",
+                  "slang",
+                  "vulkan"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibVLCSharp",
+              "description": "VLC-based media playback bindings with a MediaPlayerElement control for Windows, Android and iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform .NET/Mono bindings for LibVLC",
+                "homepage": "https://www.videolan.org",
+                "id": 136175474,
+                "language": "C#",
+                "license": "LGPL-2.1",
+                "last_commit": "2026-11-03T10:59:40Z",
+                "open_issues": 1,
+                "owner": "videolan",
+                "repo": "libvlcsharp",
+                "stars": 1830,
+                "topics": [
+                  "dotnet",
+                  "libvlc",
+                  "libvlcsharp",
+                  "multimedia",
+                  "player",
+                  "unity",
+                  "vlc",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Media"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "R3",
+              "description": "Modern reimplementation of Reactive Extensions, with an extension package for dispatcher-timer and rendering-frame providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The new future of dotnet/reactive and UniRx.",
+                "homepage": null,
+                "id": 728573769,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-08T09:16:34Z",
+                "open_issues": 38,
+                "owner": "Cysharp",
+                "repo": "R3",
+                "stars": 4052,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Shiny Mediator",
+              "description": "Mediator pattern library with app middleware for caching, offline, resilience and main-thread dispatch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Mediator for your .NET Apps with some of the most awesome middleware around",
+                "homepage": "https://shinylib.net",
+                "id": 792834660,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-14T16:05:36Z",
+                "open_issues": 0,
+                "owner": "shinyorg",
+                "repo": "mediator",
+                "stars": 55,
+                "topics": [
+                  "architecture",
+                  "blazor",
+                  "dotnet",
+                  "maui",
+                  "mediation"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Microsoft.UI.Reactor for Uno",
+              "description": "Experimental port of Microsoft's React-style framework for building UI from C# components and hooks without XAML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Microsoft UI Reactor port for Uno Platform",
+                "homepage": "https://platform.uno/",
+                "id": 1417891372,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T04:12:25Z",
+                "open_issues": 1,
+                "owner": "unoplatform",
+                "repo": "Uno.microsoft-ui-reactor",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chinook.DynamicMvvm",
+              "description": "Declarative and extensible ViewModels, properties and commands, by nventive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Declarative and extensible ViewModels, properties, and commands.",
+                "homepage": null,
+                "id": 269183941,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2026-01-20T14:40:48Z",
+                "open_issues": 5,
+                "owner": "nventive",
+                "repo": "Chinook.DynamicMvvm",
+                "stars": 12,
+                "topics": [
+                  "chinook",
+                  "dotnet",
+                  "mobile",
+                  "mvvm",
+                  "uno-platform",
+                  "uwp",
+                  "viewmodels",
+                  "winui",
+                  "xamarin"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chinook.Navigation",
+              "description": "ViewModel-first stack, sections and modal navigation, by nventive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ViewModel-based navigation",
+                "homepage": null,
+                "id": 268981710,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2026-01-19T16:59:24Z",
+                "open_issues": 3,
+                "owner": "nventive",
+                "repo": "Chinook.Navigation",
+                "stars": 11,
+                "topics": [
+                  "android",
+                  "chinook",
+                  "dotnet",
+                  "ios",
+                  "mobile",
+                  "mvvm",
+                  "navigation",
+                  "uno-platform",
+                  "uwp"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "XAML Behaviors for Uno",
+              "description": "Port of XAML Behaviors with triggers, actions and InvokeCommandAction for non-Windows targets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the Uno Platform home for UWP XAML Behaviors",
+                "homepage": "http://platform.uno/",
+                "id": 132766310,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-12T02:44:50Z",
+                "open_issues": 0,
+                "owner": "unoplatform",
+                "repo": "Uno.XamlBehaviors",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Singulink UI Toolkit",
+              "description": "Strongly typed, deep-linkable MVVM navigation plus a task runner, XAML helpers and trimmed Fluent icon packs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MVVM and XAML-based components to help streamline complex UI development scenarios.",
+                "homepage": null,
+                "id": 868067805,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-19T15:20:51Z",
+                "open_issues": 1,
+                "owner": "Singulink",
+                "repo": "Singulink.UI",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ReactiveUI.Uno",
+              "description": "ReactiveUI integration with view bases, activation, routing, bindings and schedulers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ReactiveUI integration for the Uno Platform. Provides Uno-aware views, activation, routing, binding and scheduler support so the same MVVM code runs on Windows, desktop, WebAssembly, Android and iOS.",
+                "homepage": null,
+                "id": 480178082,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T03:57:21Z",
+                "open_issues": 5,
+                "owner": "reactiveui",
+                "repo": "ReactiveUI.Uno",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MVVM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pure.DI",
+              "description": "Generates dependency injection object graphs at compile time without requiring a runtime container by Nikolay Pianikov.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pure DI for .NET",
+                "homepage": null,
+                "id": 352249848,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T13:46:29Z",
+                "open_issues": 3,
+                "owner": "DevTeam",
+                "repo": "Pure.DI",
+                "stars": 851,
+                "topics": [
+                  "avalonia",
+                  "composition",
+                  "csharp",
+                  "dependency-injection",
+                  "di",
+                  "dotnet",
+                  "injection",
+                  "injection-framework",
+                  "ioc",
+                  "pure",
+                  "pure-di",
+                  "root",
+                  "solid",
+                  "source-generator",
+                  "unity",
+                  "wpf"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dependency Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shiny",
+              "description": "Device and background services such as jobs, Bluetooth LE, push notifications, geofencing and GPS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ".NET Framework for Backgrounding & Device Hardware Services (iOS, MacOS, tvOS, Android, Windows, Linxux, & Web)",
+                "homepage": "https://shinylib.net",
+                "id": 177346477,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-20T18:59:15Z",
+                "open_issues": 1,
+                "owner": "shinyorg",
+                "repo": "shiny",
+                "stars": 1594,
+                "topics": [
+                  "android",
+                  "blazor",
+                  "ble",
+                  "bluetoothle",
+                  "geofences",
+                  "gps",
+                  "ios",
+                  "maui",
+                  "maui-apps",
+                  "notifications",
+                  "transfers"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "32feet.NET",
+              "description": "Bluetooth Classic, Bluetooth LE and NFC library with an API modeled on Web Bluetooth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Personal Area Networking for .NET. Open source and professionally supported",
+                "homepage": "https://inthehand.com/components/32feet/",
+                "id": 86857912,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-18T12:35:24Z",
+                "open_issues": 155,
+                "owner": "inthehand",
+                "repo": "32feet",
+                "stars": 994,
+                "topics": [
+                  "android",
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "compact-framework",
+                  "dotnet",
+                  "ios",
+                  "irda",
+                  "macos",
+                  "maui",
+                  "net-standard",
+                  "nfc",
+                  "nuget",
+                  "obex",
+                  "uno-platform",
+                  "windows-desktop",
+                  "windows-phone",
+                  "xamarin",
+                  "xamarin-android",
+                  "xamarin-ios"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Datasync Community Toolkit",
+              "description": "Offline-capable data synchronization between client apps and an ASP.NET Core backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of libraries that implement a client-server system used for synchronizing data from a cloud-based database.",
+                "homepage": "https://communitytoolkit.github.io/Datasync/",
+                "id": 782235061,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-13T13:03:39Z",
+                "open_issues": 3,
+                "owner": "CommunityToolkit",
+                "repo": "Datasync",
+                "stars": 186,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.SQLitePCLRaw.Wasm",
+              "description": "SQLitePCLRaw provider that brings SQLite, sqlite-net and EF Core to WebAssembly apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An SQLiteRaw WebAssembly provider for SQLitePCLRaw.core",
+                "homepage": null,
+                "id": 150425940,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2024-10-26T00:04:07Z",
+                "open_issues": 0,
+                "owner": "unoplatform",
+                "repo": "Uno.SQLitePCLRaw.Wasm",
+                "stars": 36,
+                "topics": [
+                  "csharp",
+                  "entity-framework",
+                  "entity-framework-core",
+                  "sqlite",
+                  "uno-platform",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.RevenueCat",
+              "description": "RevenueCat in-app purchases and subscriptions for Android and iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RevenueCat support for Uno Platform",
+                "homepage": null,
+                "id": 1090854329,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-01T16:04:58Z",
+                "open_issues": 0,
+                "owner": "MartinZikmund",
+                "repo": "Uno.RevenueCat",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Uno.AdMob",
+              "description": "Google AdMob banner, interstitial, rewarded and app open ads with UMP consent on Android and iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Google AdMob for Uno Platform (Android & iOS) – port of Plugin.AdMob",
+                "homepage": null,
+                "id": 1462847130,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-18T13:56:21Z",
+                "open_issues": 8,
+                "owner": "MartinZikmund",
+                "repo": "Uno.AdMob",
+                "stars": 0,
+                "topics": [
+                  "admob",
+                  "ads",
+                  "android",
+                  "dotnet",
+                  "ios",
+                  "uno-platform"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C# Markup 2",
+              "description": "Concise, declarative C# UI markup with Uno Toolkit, Navigation and MVUX support and templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Concise, declarative C# UI markup for .NET browser / native UI frameworks",
+                "homepage": null,
+                "id": 126183558,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-05-29T16:52:43Z",
+                "open_issues": 7,
+                "owner": "VincentH-Net",
+                "repo": "CSharpForMarkup",
+                "stars": 842,
+                "topics": [
+                  "csharp",
+                  "ide-support",
+                  "maui",
+                  "readability",
+                  "uno-platform",
+                  "winui3",
+                  "wpf",
+                  "xamarin",
+                  "xamarin-forms",
+                  "xaml"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
+            },
             {
               "node_type": "item",
               "title": "Elmish.Uno",
@@ -327,6 +2069,46 @@
                 ]
               },
               "first_seen": "2026-08-28T23:48:49.018Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Majorsilence.Forms",
+              "description": "Cross-platform Windows Forms API that runs WinForms-style apps on desktop, mobile and WebAssembly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform WinForms for .NET — run your Windows Forms apps on Windows, macOS, Linux, mobile and the browser without a rewrite.",
+                "homepage": "https://forms.majorsilence.com/",
+                "id": 1205352883,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-19T23:50:06Z",
+                "open_issues": 17,
+                "owner": "majorsilence",
+                "repo": "Majorsilence.Forms",
+                "stars": 12,
+                "topics": [
+                  "avalonia",
+                  "cross-platform",
+                  "cross-platform-gui",
+                  "csharp",
+                  "desktop",
+                  "dotnet",
+                  "gui",
+                  "linux",
+                  "macos",
+                  "skiasharp",
+                  "ui-framework",
+                  "uno-platform",
+                  "vbnet",
+                  "webassembly",
+                  "windows-forms",
+                  "winforms",
+                  "winforms-alternative",
+                  "winforms-migration"
+                ]
+              },
+              "first_seen": "2026-11-20T22:04:37.996Z"
             }
           ],
           "description": null,
@@ -339,6 +2121,233 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "League of Legends Client",
+          "description": "Recreation of the League of Legends client UI showing custom controls and a modular architecture for large XAML apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 841697805,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2025-02-15T16:18:27Z",
+            "open_issues": 0,
+            "owner": "JamesnetGroup",
+            "repo": "leagueoflegends-uno",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Chefs",
+          "description": "Official recipe reference app demonstrating MVUX, navigation, Material theming and Toolkit controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Uno Chefs Reference App for Uno Platform",
+            "homepage": "https://platform.uno/",
+            "id": 553010984,
+            "language": "C#",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-09T10:27:49Z",
+            "open_issues": 55,
+            "owner": "unoplatform",
+            "repo": "uno.chefs",
+            "stars": 37,
+            "topics": [
+              "dotnet",
+              "uno-platform"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nventive Uno Application Template",
+          "description": "Production-grade dotnet new mobile app template with MVVM, dependency injection, logging and built-in diagnostic tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "dotnet new application template for Uno platform apps.",
+            "homepage": null,
+            "id": 269418341,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-02-16T19:30:49Z",
+            "open_issues": 4,
+            "owner": "nventive",
+            "repo": "UnoApplicationTemplate",
+            "stars": 36,
+            "topics": [
+              "android",
+              "dotnet",
+              "ios",
+              "mobile",
+              "mvvm",
+              "uno-platform",
+              "uwp"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DevTKSS Uno Sample Apps",
+          "description": "Bilingual German and English sample apps and step-by-step tutorials covering MVUX, navigation and other Uno.Extensions features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This Samples and Tutorials Repository aims to help especially german speaking developers beginning new with Uno Platform SDK and Extensions to get a smooth start with their Development Journey, but also has written english version of my YouTube Channel Tutorials",
+            "homepage": "https://devtkss.github.io/DevTKSS.Uno.SampleApps/",
+            "id": 898704350,
+            "language": "C#",
+            "license": "NOASSERTION",
+            "last_commit": "2026-03-14T17:58:48Z",
+            "open_issues": 6,
+            "owner": "DevTKSS",
+            "repo": "DevTKSS.Uno.SampleApps",
+            "stars": 5,
+            "topics": [
+              "awesome",
+              "awesome-resources",
+              "button",
+              "extensions",
+              "feedview",
+              "german-language",
+              "gridview",
+              "listview",
+              "mvux",
+              "navigationview",
+              "samples",
+              "starter",
+              "tutorial-code",
+              "tutorial-videos",
+              "tutorials",
+              "uno",
+              "uno-platform",
+              "uno-platform-extensions",
+              "uno-toolkit"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fun with SkiaSharp",
+          "description": "Nineteen SkiaSharp visual demos and minigames from the SkiaSharp 4 launch event, with a live WebAssembly gallery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fun with SkiaSharp and Uno Platform!",
+            "homepage": null,
+            "id": 1285132245,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2026-06-30T16:09:36Z",
+            "open_issues": 0,
+            "owner": "MartinZikmund",
+            "repo": "fun-with-skiasharp",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wayfarer",
+          "description": "Travel journal sample showcasing LinedFlowLayout, RichEditBox, Composition animations, multi-window and tvOS support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A travel journal showcasing Uno Platform 7.0: LinedFlowLayout, RichEditBox, RichTextBlock overflow, built-in Lottie, TitleBar, multi-window, tvOS - with WinUI Fluent design.",
+            "homepage": null,
+            "id": 1417964262,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-09T17:30:08Z",
+            "open_issues": 0,
+            "owner": "MartinZikmund",
+            "repo": "Wayfarer",
+            "stars": 0,
+            "topics": [
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "uno-platform",
+              "webassembly",
+              "winui",
+              "xaml"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Uno App Template",
+          "description": "Opinionated app template with MVVM, DI, navigation, localization, versioning and multi-store release pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1119112359,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-20T17:12:20Z",
+            "open_issues": 63,
+            "owner": "MartinZikmund",
+            "repo": "uno-app-template",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        }
+      ],
+      "title": "Samples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sefirah",
+          "description": "Phone Link alternative that syncs clipboard, notifications, files and media between Android and the desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Phone Link / KDE Connect alternative",
+            "homepage": null,
+            "id": 828281426,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-20T07:53:37Z",
+            "open_issues": 173,
+            "owner": "shrimqy",
+            "repo": "Sefirah",
+            "stars": 3108,
+            "topics": [
+              "android",
+              "android-sync",
+              "clipboard",
+              "clipboard-sync",
+              "csharp",
+              "file-transfer",
+              "file-transfer-android",
+              "fluent",
+              "media-controller",
+              "phone-link",
+              "windows",
+              "windows-11",
+              "winui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
         {
           "node_type": "item",
           "title": "NuGet Package Explorer",
@@ -367,8 +2376,80 @@
         },
         {
           "node_type": "item",
+          "title": "2fast",
+          "description": "Two-factor TOTP authenticator for Windows, Android, iOS, Linux and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)",
+            "homepage": "https://2fast-app.de",
+            "id": 258649062,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-25T09:26:23Z",
+            "open_issues": 35,
+            "owner": "2fast-team",
+            "repo": "2fast",
+            "stars": 574,
+            "topics": [
+              "android-app",
+              "authentication",
+              "authenticator",
+              "c-sharp",
+              "ios-app",
+              "linux-app",
+              "password",
+              "totp",
+              "uwp-apps",
+              "windows-10"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Eppie",
+          "description": "Encrypted peer-to-peer email client that also works with regular IMAP/SMTP accounts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Eppie — open protocol encrypted p2p email",
+            "homepage": "https://eppie.io",
+            "id": 610786335,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T17:32:49Z",
+            "open_issues": 65,
+            "owner": "Eppie-io",
+            "repo": "Eppie-App",
+            "stars": 421,
+            "topics": [
+              "ai",
+              "cryptography",
+              "csharp",
+              "decentralization",
+              "email",
+              "emailclient",
+              "encryption",
+              "end-to-end-encryption",
+              "gmail",
+              "imap-client",
+              "outlook",
+              "p2p",
+              "pgp",
+              "protonmail",
+              "security",
+              "uno-platform",
+              "uwp-app",
+              "winui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "Uno Calculator",
-          "description": "Port of the Windows 10 Calculator.",
+          "description": "Port of the open-source Windows Calculator to C# for iOS, macOS, Android, WebAssembly and Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,8 +2484,40 @@
         },
         {
           "node_type": "item",
+          "title": "SecureFolderFS",
+          "description": "File encryption app that protects folders as vaults with on-the-fly encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Powerful, secure, modern way to keep your files protected.",
+            "homepage": null,
+            "id": 451619180,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-09T23:44:32Z",
+            "open_issues": 7,
+            "owner": "securefolderfs-community",
+            "repo": "SecureFolderFS",
+            "stars": 287,
+            "topics": [
+              "cryptography",
+              "csharp",
+              "encryption",
+              "fluent",
+              "security",
+              "security-tools",
+              "vault",
+              "windows-10",
+              "windows-11",
+              "winui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "Uno Playground",
-          "description": "Uno Playground app with UI samples.",
+          "description": "Source code of the in-browser playground, with UI samples.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,6 +2545,102 @@
             ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Strix Music",
+          "description": "Alpha-stage music player and SDK that merges multiple music sources into a single reskinnable library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Combine any music sources into a single library. It's your music. Play it your way.",
+            "homepage": "http://www.strixmusic.com",
+            "id": 354057742,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2026-05-19T06:06:55Z",
+            "open_issues": 41,
+            "owner": "Arlodotexe",
+            "repo": "strix-music",
+            "stars": 150,
+            "topics": [
+              "dotnet",
+              "dotnet-standard",
+              "music",
+              "music-library",
+              "plugins",
+              "sdk",
+              "uno-platform"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Key Vault Explorer",
+          "description": "Desktop app for finding, filtering and reading secrets, keys and certificates across Azure Key Vaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A cross-platform GUI desktop application for aggregating/managing secrets (and keys and certificates) in Azure Key Vault",
+            "homepage": "https://apps.microsoft.com/detail/9mz794c6t74m?rtc=1&hl=en-us&gl=US&cid=github&gl=US",
+            "id": 593706186,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-19T04:21:48Z",
+            "open_issues": 17,
+            "owner": "cricketthomas",
+            "repo": "AzureKeyVaultExplorer",
+            "stars": 120,
+            "topics": [
+              "avalonia",
+              "avaloniaui",
+              "azure",
+              "azure-key-vault",
+              "azurekeyvault",
+              "cross-platform",
+              "dotnet",
+              "fluentdesign",
+              "gui",
+              "keyvault",
+              "linux",
+              "macos",
+              "ubuntu",
+              "uno",
+              "uno-platform",
+              "windows",
+              "winui",
+              "xaml"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "asERP",
+          "description": "Self-hosted retail ERP toolkit with a REST API and cross-platform desktop, web and mobile clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenSource, self-hosted, client/server-based ERP system with multiplatform GUI written in C#",
+            "homepage": "https://www.as-ERP.de",
+            "id": 494868749,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-09T10:11:34Z",
+            "open_issues": 14,
+            "owner": "andrich-software",
+            "repo": "asERP",
+            "stars": 96,
+            "topics": [
+              "client-server",
+              "erp",
+              "opensource",
+              "self-hosted",
+              "shopware"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
         },
         {
           "node_type": "item",
@@ -469,6 +2678,41 @@
         },
         {
           "node_type": "item",
+          "title": "Emerald",
+          "description": "Minecraft launcher for Windows, macOS and Linux with multi-instance profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Emerald is a cross-platform Minecraft launcher written in C# with Uno Platform",
+            "homepage": null,
+            "id": 497271229,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-16T10:14:13Z",
+            "open_issues": 10,
+            "owner": "RiversideValley",
+            "repo": "Emerald",
+            "stars": 83,
+            "topics": [
+              "csharp",
+              "fluent",
+              "launcher",
+              "linux",
+              "macos",
+              "mc-launcher",
+              "minecraft",
+              "minecraft-launcher",
+              "msal",
+              "riversidevalley",
+              "uwp",
+              "windows",
+              "winui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ch9",
           "description": "Channel 9 browser app.",
           "children": [],
@@ -501,7 +2745,394 @@
         },
         {
           "node_type": "item",
-          "title": "COduo",
+          "title": "Scrubbler 2",
+          "description": "Plugin-based manual scrobbler for listens that a player or service failed to submit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Manual scrobbling for when a service (or you!) failed to scrobble",
+            "homepage": null,
+            "id": 1044326687,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-23T14:28:08Z",
+            "open_issues": 1,
+            "owner": "Scrubbler-Dev",
+            "repo": "Scrubbler-2",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "StoryCAD",
+          "description": "Free outlining tool that helps fiction writers plan characters, plots and settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "StoryBuilder - CAD Software for Fiction Writers",
+            "homepage": "https://storybuilder.org/",
+            "id": 339442017,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-20T20:34:43Z",
+            "open_issues": 36,
+            "owner": "storybuilder-org",
+            "repo": "StoryCAD",
+            "stars": 30,
+            "topics": [
+              "creative-writing",
+              "dotnet",
+              "fiction-writing",
+              "macos",
+              "novel-writing",
+              "open-source",
+              "story-outlining",
+              "uno-platform",
+              "windows",
+              "winui3",
+              "writing-application",
+              "writing-software",
+              "writing-tool"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TextSpace",
+          "description": "Local-first word processor with paginated editing, a ribbon and DOCX/PDF export, running on desktop and in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first word processor with paginated editing, ribbon, review tools and DOCX/PDF export, in C# with Uno Platform, SkiaSharp and HarfBuzz. Runs on desktop and in the browser; engine and controls ship as NuGet packages.",
+            "homepage": "https://wieslawsoltes.github.io/TextSpace/",
+            "id": 1390583442,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-09-30T19:32:44Z",
+            "open_issues": 1,
+            "owner": "wieslawsoltes",
+            "repo": "TextSpace",
+            "stars": 20,
+            "topics": [
+              "cross-platform",
+              "csharp",
+              "docx",
+              "dotnet",
+              "harfbuzz",
+              "local-first",
+              "nuget",
+              "openxml",
+              "pdf",
+              "rich-text",
+              "skiasharp",
+              "text-editor",
+              "typography",
+              "uno-platform",
+              "uno-space",
+              "webassembly",
+              "word-processor"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry Desktop Crash Reporter",
+          "description": "Sentry's cross-platform crash reporter that asks users for feedback and consent before submitting a report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Take user feedback and/or consent before submitting crash report on Windows, macOS and Linux",
+            "homepage": null,
+            "id": 1037418020,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-20T16:24:48Z",
+            "open_issues": 7,
+            "owner": "getsentry",
+            "repo": "sentry-desktop-crash-reporter",
+            "stars": 16,
+            "topics": [
+              "sdk-adjacent",
+              "tag-production"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Celbridge",
+          "description": "Workbench for building HTML-based tools for game dev teams, with Python scripting and spreadsheet support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Celbridge is an open source tool that provides a bridge between spreadsheets and Python scripting.",
+            "homepage": null,
+            "id": 702993039,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-20T21:52:02Z",
+            "open_issues": 63,
+            "owner": "celbridge-org",
+            "repo": "celbridge",
+            "stars": 14,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "excel",
+              "markdown",
+              "python",
+              "spreadjs",
+              "spreadsheets",
+              "webviewer"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SubZero Framework Edition",
+          "description": "Fan control and thermal telemetry app for Framework laptops on Windows and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SubZero Framework Edition - Fan control app for Framework Devices",
+            "homepage": null,
+            "id": 1221124047,
+            "language": "C#",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-19T04:12:00Z",
+            "open_issues": 7,
+            "owner": "TekuSP",
+            "repo": "SubZeroFramework",
+            "stars": 13,
+            "topics": [
+              "dotnet",
+              "fan-control",
+              "framework",
+              "framework-laptop",
+              "linux",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DotUninstall",
+          "description": "Graphical front end for the dotnet-core-uninstall tool that removes old .NET SDKs and runtimes on Windows and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Uno based UI for dotnet-core-uninstall command line",
+            "homepage": null,
+            "id": 1063547197,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-15T09:39:54Z",
+            "open_issues": 1,
+            "owner": "lextudio",
+            "repo": "DotUninstall",
+            "stars": 12,
+            "topics": [
+              "dotnet",
+              "dotnet-core",
+              "dotnetcore"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Matroska Batch Flow",
+          "description": "Batch editor for Matroska (MKV) container and track properties across many files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Matroska Batch Flow is a tool for batch processing Matroska files with ease. Quickly modify container properties across multiple files and streamline your workflow.",
+            "homepage": "https://matroskabatchflow.com",
+            "id": 975634135,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-15T14:07:42Z",
+            "open_issues": 9,
+            "owner": "TimGels",
+            "repo": "Matroska-Batch-Flow",
+            "stars": 11,
+            "topics": [
+              "batch-processing",
+              "csharp",
+              "dotnet",
+              "matroska-files",
+              "mkv",
+              "mkvpropedit",
+              "skia",
+              "uno-platform",
+              "windows",
+              "winui",
+              "winui3"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Recurrents",
+          "description": "Subscription tracker with payment reminders and spending overview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tired of losing track of your spending on many different services? With Recurrents, just input your subscriptions for an easy overview and stay in control with reminders, save money, and enjoy a stress-free experience. Take control of your expenses effortlessly!",
+            "homepage": "https://www.microsoft.com/store/apps/9N5MJT8G06KC",
+            "id": 662983458,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-08-22T20:59:35Z",
+            "open_issues": 16,
+            "owner": "morning4coffe-dev",
+            "repo": "recurrents",
+            "stars": 11,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "fluent",
+              "modern",
+              "subscription-manager",
+              "uno-platform",
+              "windows",
+              "winui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pāli Practice",
+          "description": "Flashcard app that uses spaced repetition to drill Pāli noun declensions and verb conjugations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-platform Pali language learning app",
+            "homepage": null,
+            "id": 1028613481,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2026-09-14T21:58:03Z",
+            "open_issues": 1,
+            "owner": "DhammaBytes",
+            "repo": "PaliPractice",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Elapsed",
+          "description": "Desktop and mobile client for Hack Club's Lapse timelapse programme, with a companion CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Elapsed is @hackclub's new timelapse tracking tool and media sharing platform.",
+            "homepage": "https://elapsed.hackclub.com",
+            "id": 1178253027,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-07-01T21:23:29Z",
+            "open_issues": 27,
+            "owner": "hackclub",
+            "repo": "elapsed",
+            "stars": 9,
+            "topics": [
+              "android",
+              "csharp",
+              "dotnet",
+              "hack-club",
+              "hackatime",
+              "hackclub",
+              "ios",
+              "linux",
+              "mac",
+              "riverside",
+              "time-tracker",
+              "time-tracking",
+              "timelapse",
+              "timelapses",
+              "wakatime",
+              "wasm",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PixlPunkt",
+          "description": "Pixel art editor with animation and a plugin SDK, with builds for Windows, macOS and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A modern pixel art editor for Windows",
+            "homepage": null,
+            "id": 1117945517,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-10T03:51:47Z",
+            "open_issues": 0,
+            "owner": "ChadRoesler",
+            "repo": "PixlPunkt",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HouzLinc",
+          "description": "Local-network configuration app for Insteon home automation devices and scenes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Configure Insteon devices with this open-source app for Windows, Android and iOS based on Uno Platform.",
+            "homepage": null,
+            "id": 881535907,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-11T17:19:22Z",
+            "open_issues": 43,
+            "owner": "Lakeside-Apps",
+            "repo": "HouzLinc",
+            "stars": 5,
+            "topics": [
+              "android",
+              "android-app",
+              "android-application",
+              "csharp",
+              "home",
+              "home-automation",
+              "insteon",
+              "insteon-api",
+              "insteon-hub",
+              "insteon-network",
+              "ios",
+              "open",
+              "open-source",
+              "opensource",
+              "uno",
+              "uno-platform",
+              "winui3-in-desktop",
+              "xaml",
+              "xaml-ui"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CODuo",
           "description": "Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.",
           "children": [],
           "repo_info": {
@@ -529,13 +3160,253 @@
             ]
           },
           "first_seen": "2026-08-28T23:48:49.018Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MZikmund.dev",
+          "description": "Personal website and blog platform with an ASP.NET Core backend and a cross-platform reader and admin app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Personal website and blog of Martin Zikmund",
+            "homepage": "https://mzikmund.dev",
+            "id": 513824708,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-20T14:57:58Z",
+            "open_issues": 84,
+            "owner": "MartinZikmund",
+            "repo": "mzikmund",
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RoMi",
+          "description": "Calculator for the SysEx MIDI messages that remote-control Roland keyboards and synthesizers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RoMi: Calculates SysEx MIDI messages for Roland Keyboards",
+            "homepage": null,
+            "id": 741657798,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-18T06:08:03Z",
+            "open_issues": 12,
+            "owner": "DrHardReset",
+            "repo": "RoMi",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Daily Reflection",
+          "description": "Reader for the A.A. Daily Reflections, migrated in place from Xamarin.Forms and live on Google Play and the App Store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "App for the AA Daily Reflection",
+            "homepage": null,
+            "id": 304750446,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-14T16:01:41Z",
+            "open_issues": 4,
+            "owner": "kazo0",
+            "repo": "DailyReflection",
+            "stars": 4,
+            "topics": [
+              "alcoholics",
+              "alcoholics-anonymous",
+              "dotnet",
+              "hacktoberfest",
+              "xamarin",
+              "xamarin-forms"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Salmon Egg",
+          "description": "Desktop client for AI agents over the Agent Client Protocol, with session history, tool-call review and terminal workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://salmon-egg.vercel.app",
+            "id": 1174037522,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-14T07:17:19Z",
+            "open_issues": 7,
+            "owner": "salmonloop",
+            "repo": "salmon-egg",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Stopwatch",
+          "description": "Stopwatch with multiple timers, laps and history, also usable in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stopwatch app",
+            "homepage": "https://fluentstopwatch.uno",
+            "id": 813802387,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-13T17:59:56Z",
+            "open_issues": 51,
+            "owner": "MartinZikmund",
+            "repo": "stopwatch",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Daily Plants",
+          "description": "Private checklist for Dr. Greger's Daily Dozen and Twenty-One Tweaks, with streaks, statistics and 21 languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Daily Dozen app",
+            "homepage": null,
+            "id": 1000848200,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-20T17:33:28Z",
+            "open_issues": 43,
+            "owner": "MartinZikmund",
+            "repo": "daily-plants",
+            "stars": 0,
+            "topics": [
+              "daily-dozen",
+              "how-not-to-die",
+              "nutrition",
+              "plant-based",
+              "vegan"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Cockpit",
+          "description": "WebAssembly dashboard for in-car browsers with a trip HUD, gamepad arcade game, photo booth and sensor lab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Uno Platform 7.0 WebAssembly cockpit for in-car browsers - GPS, gamepad, camera, mic and more",
+            "homepage": null,
+            "id": 1458626437,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-15T11:14:14Z",
+            "open_issues": 0,
+            "owner": "MartinZikmund",
+            "repo": "UnoCockpit",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
         }
       ],
       "title": "Open-source apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astro Odyssey",
+          "description": "Browser space shooter where you destroy meteors and enemies and battle level bosses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A space shooter game built with Uno Platform and WASM. The goal is to survive and score as far as you can by destroying meteors, enemies, and defeating level bosses.",
+            "homepage": "https://asadullahrifat89.github.io/astro-odyssey-uno-platform/",
+            "id": 513531020,
+            "language": "C#",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-01-06T11:50:40Z",
+            "open_issues": 0,
+            "owner": "asadullah-refat-89",
+            "repo": "astro-odyssey-uno-platform",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "UnoDOOM",
+          "description": "DOOM port built on ManagedDoom with touch, keyboard and gamepad controls, playable in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Embrace the iconic DOOM game, now cross-platform on iOS, macOS, Android, Windows, Linux, and WebAssembly. Implemented with Uno Platform.",
+            "homepage": null,
+            "id": 1114344949,
+            "language": "C#",
+            "license": "GPL-2.0",
+            "last_commit": "2026-07-09T11:53:30Z",
+            "open_issues": 2,
+            "owner": "MartinZikmund",
+            "repo": "UnoDoom",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XAML-MAN",
+          "description": "Faithful Pac-Man clone with arcade-accurate ghost AI, drawn entirely with XAML shapes and playable in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A faithful Pac-Man clone rendered entirely in XAML. Runs on Windows, macOS, Linux, WebAssembly, Android and iOS with Uno Platform.",
+            "homepage": "https://martinzikmund.github.io/XamlMan/",
+            "id": 1374601825,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-09-18T08:36:04Z",
+            "open_issues": 0,
+            "owner": "MartinZikmund",
+            "repo": "XamlMan",
+            "stars": 0,
+            "topics": [
+              "cross-platform",
+              "dotnet",
+              "game",
+              "pacman",
+              "uno-platform",
+              "webassembly",
+              "winui",
+              "xaml"
+            ]
+          },
+          "first_seen": "2026-11-20T22:04:37.996Z"
+        }
+      ],
+      "title": "Games"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:32:03.858Z",
+    "last_updated": "2026-11-20T22:04:37.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 List of resources for developers building cross-platform .NET apps with Uno Platform.",
@@ -543,8 +3414,8 @@
       "id": 198378608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-05-20T11:32:57Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-20T16:51:59Z",
+      "open_issues": 1,
       "owner": "MartinZikmund",
       "repo": "awesome-uno-platform",
       "stars": 82,
@@ -562,9 +3433,9 @@
         "winappsdk"
       ]
     },
-    "original_repository_sha": "4887d585d7cf42dea91e86360649cc54975c82ed",
+    "original_repository_sha": "cf6e7d7250cddba2e9ef39c877adb507284a9ad9",
     "enhanced_repository": "enhansome/enhansome-uno-platform",
     "enhanced_repository_description": null,
-    "title": "Awesome Uno Platform with stars"
+    "title": "Awesome uno platform with stars"
   }
 }
