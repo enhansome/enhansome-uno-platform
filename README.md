@@ -53,7 +53,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 ## Community
 
 * [Discord](https://platform.uno/discord) - Official chat server for questions, help and announcements.
-* [GitHub Discussions](https://github.com/unoplatform/uno/discussions) ⭐ 10,133 | 🐛 2,454 | 🌐 C# | 📅 2026-11-24 - Q\&A, ideas and show-and-tell forum on the main repository.
+* [GitHub Discussions](https://github.com/unoplatform/uno/discussions) ⭐ 10,134 | 🐛 2,468 | 🌐 C# | 📅 2026-11-25 - Q\&A, ideas and show-and-tell forum on the main repository.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/uno-platform) - Q\&A tag for framework and tooling questions.
 * [X (Twitter)](https://x.com/UnoPlatform) - Official account for release news and community highlights.
 * [LinkedIn](https://www.linkedin.com/company/uno-platform/) - Official company page with product and release updates.
@@ -62,9 +62,9 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Repositories
 
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,133 | 🐛 2,454 | 🌐 C# | 📅 2026-11-24 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
-* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 265 | 🐛 148 | 🌐 C# | 📅 2026-11-24 - A growing collection of code samples and snippets.
-* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 186 | 🐛 219 | 🌐 C# | 📅 2026-11-24 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,134 | 🐛 2,468 | 🌐 C# | 📅 2026-11-25 - Main repository of Uno Platform, including the full API surface of UWP/WinUI, the best place to submit issues and contribute.
+* [Uno Samples](https://github.com/unoplatform/Uno.Samples) ⭐ 265 | 🐛 147 | 🌐 C# | 📅 2026-11-25 - A growing collection of code samples and snippets.
+* [Uno Themes](https://github.com/unoplatform/Uno.Themes) ⭐ 186 | 🐛 219 | 🌐 C# | 📅 2026-11-25 - Material and Cupertino theme library for Uno Platform apps. In addition, includes advanced controls based on Android/iOS developer guidelines.
 * [Uno Gallery](https://github.com/unoplatform/Uno.Gallery) ⭐ 171 | 🐛 164 | 🌐 C# | 📅 2026-11-12 - Controls and API gallery app. Includes live examples of most built-in controls and features along with easy to use code snippets.
 * [Uno Toolkit](https://github.com/unoplatform/uno.toolkit.ui) ⭐ 109 | 🐛 247 | 🌐 C# | 📅 2026-11-24 - Multiplatform-first UI component library to speed up application development. Also provides Material and Cupertino styles for the included components.
 * [Uno Core](https://github.com/unoplatform/Uno.Core) ⭐ 41 | 🐛 12 | 🌐 C# | 📅 2026-11-03 - Provides a set of reusable utilities and helpers. Used by the main Uno Platform repository.
@@ -87,7 +87,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### AI
 
-* [Uno Platform Studio Agent Plugin](https://github.com/unoplatform/studio) ⭐ 11 | 🐛 50 | 🌐 C# | 📅 2026-11-23 - Agent plugin with an app-building agent, topic skills (MVUX, navigation, Toolkit, themes, testing) and Hot Reload hooks for Claude Code, GitHub Copilot and Codex.
+* [Uno Platform Studio Agent Plugin](https://github.com/unoplatform/studio) ⭐ 11 | 🐛 51 | 🌐 C# | 📅 2026-11-25 - Agent plugin with an app-building agent, topic skills (MVUX, navigation, Toolkit, themes, testing) and Hot Reload hooks for Claude Code, GitHub Copilot and Codex.
 * [dotnet-agentic-engineering (dna)](https://github.com/VincentH-Net/dotnet-agentic-engineering) ⭐ 11 | 🐛 2 | 🌐 C# | 📅 2026-11-17 - Agent directives, skills and tooling that detect a repo's stack (MVUX or MVVM, C# Markup, design system, SDK version) and install a matching skill set.
 * [Uno Platform Skills](https://github.com/noknowscode/UnoPlatformSkills) ⭐ 5 | 🐛 0 | 📅 2026-04-07 - Claude Code skills covering MVUX, navigation, Toolkit, Material theming, C# Markup, WebAssembly and WPF migration.
 * [Uno Platform MCP](https://platform.uno/mcp/) - Free remote MCP server that grounds AI agents in the current documentation and API references.
@@ -100,8 +100,8 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 * [Velopack](https://github.com/velopack/velopack) ⭐ 2,491 | 🐛 60 | 🌐 C# | 📅 2026-11-23 - Installer and auto-update framework for desktop apps, with an official Uno sample and setup guide.
 * [Uno.Wasm.Bootstrap](https://github.com/unoplatform/Uno.Wasm.Bootstrap) ⭐ 383 | 🐛 80 | 🌐 WebAssembly | 📅 2026-11-13 - MSBuild package that builds and hosts .NET code in the browser via WebAssembly, with AOT and PWA support.
 * [DependencyPropertyGenerator](https://github.com/HavenDV/DependencyPropertyGenerator) ⭐ 155 | 🐛 4 | 🌐 C# | 📅 2026-11-23 - Source generator for dependency properties, routed events and weak events, with automatic Uno detection.
-* [Uno.Check](https://github.com/unoplatform/uno.check) ⭐ 48 | 🐛 93 | 🌐 C# | 📅 2026-11-19 - CLI that checks and installs the SDKs, workloads and tooling needed for each target platform.
-* [Uno.Templates and Uno.Sdk](https://github.com/unoplatform/uno.templates) ⭐ 29 | 🐛 119 | 🌐 C# | 📅 2026-11-24 - The `dotnet new` app and library templates plus the single-project MSBuild SDK they build on.
+* [Uno.Check](https://github.com/unoplatform/uno.check) ⭐ 48 | 🐛 96 | 🌐 C# | 📅 2026-11-19 - CLI that checks and installs the SDKs, workloads and tooling needed for each target platform.
+* [Uno.Templates and Uno.Sdk](https://github.com/unoplatform/uno.templates) ⭐ 29 | 🐛 122 | 🌐 C# | 📅 2026-11-25 - The `dotnet new` app and library templates plus the single-project MSBuild SDK they build on.
 * [Uno.Resizetizer](https://github.com/unoplatform/uno.resizetizer) ⭐ 18 | 🐛 68 | 🌐 C# | 📅 2026-11-18 - Build-time generation of app icons, splash screens and scaled images from SVG or PNG sources.
 * [Uno.XamlMerge.Task](https://github.com/unoplatform/uno.xamlmerge.task) ⭐ 7 | 🐛 8 | 🌐 C# | 📅 2026-11-11 - MSBuild task that merges a control library's resource dictionaries into a single file for faster resource lookup.
 
@@ -113,11 +113,11 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### Toolkits
 
-* [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) ⭐ 1,088 | 🐛 249 | 🌐 C# | 📅 2026-11-24 - Microsoft-backed collection of WinUI controls, helpers and extensions that ships builds for every target.
-* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 411 | 🌐 C# | 📅 2026-11-24 - NuGet packages for navigation, DI, configuration, HTTP, localization and the MVUX reactive pattern.
+* [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) ⭐ 1,090 | 🐛 248 | 🌐 C# | 📅 2026-11-25 - Microsoft-backed collection of WinUI controls, helpers and extensions that ships builds for every target.
+* [Uno Extensions](https://github.com/unoplatform/uno.extensions) ⭐ 101 | 🐛 407 | 🌐 C# | 📅 2026-11-25 - NuGet packages for navigation, DI, configuration, HTTP, localization and the MVUX reactive pattern.
 * [CherylUI.Uno](https://github.com/kikipoulet/CherylUI.Uno) ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-06-03 - Mobile-styled controls and styles ported from the CherylUI library.
 * [dt (搬运工)](https://github.com/Daoting/dt) ⭐ 61 | 🐛 9 | 🌐 C# | 📅 2026-11-17 - Chinese-language framework for rapid line-of-business apps, with reusable client controls and backend microservices.
-* [Flowery.Uno](https://github.com/tobitege/Flowery.Uno) ⭐ 16 | 🐛 6 | 🌐 C# | 📅 2026-11-23 - Over 100 DaisyUI-inspired themed controls, localized in 12 languages.
+* [Flowery.Uno](https://github.com/tobitege/Flowery.Uno) ⭐ 17 | 🐛 6 | 🌐 C# | 📅 2026-11-23 - Over 100 DaisyUI-inspired themed controls, localized in 12 languages.
 * [Telerik UI for Uno](https://github.com/unoplatform/Uno.Telerik.UI-For-UWP) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2025-03-24 - Community port of the open-source Telerik UI for UWP controls.
 * [Uno.Fonts](https://github.com/unoplatform/uno.fonts) ⭐ 12 | 🐛 14 | 🌐 PowerShell | 📅 2026-11-03 - Font packages with Fluent and MDL2 icon fonts as drop-in Segoe replacements, plus Roboto, Open Sans and Inter.
 * [Infragistics Ultimate UI for Uno Platform](https://github.com/Infragistics/uno-samples) ⭐ 5 | 🐛 6 | 🌐 C# | 📅 2026-11-20 - Commercial (beta) charts, data grid, geographic maps, gauges and dashboard components, with a samples browser.
@@ -125,30 +125,30 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### Controls
 
-* [ScottPlot](https://github.com/ScottPlot/ScottPlot) ⭐ 6,807 | 🐛 255 | 🌐 C# | 📅 2026-08-15 - Interactive plotting library built for large scientific and high-density datasets.
-* [LiveCharts2](https://github.com/Live-Charts/LiveCharts2) ⭐ 5,511 | 🐛 52 | 🌐 C# | 📅 2026-11-23 - Interactive, animated charts, maps and gauges drawn with SkiaSharp.
-* [Mapsui](https://github.com/Mapsui/Mapsui) ⭐ 1,583 | 🐛 157 | 🌐 C# | 📅 2026-11-24 - Map component with tile layers, vector data and touch interaction.
+* [ScottPlot](https://github.com/ScottPlot/ScottPlot) ⭐ 6,810 | 🐛 254 | 🌐 C# | 📅 2026-08-15 - Interactive plotting library built for large scientific and high-density datasets.
+* [LiveCharts2](https://github.com/Live-Charts/LiveCharts2) ⭐ 5,510 | 🐛 58 | 🌐 C# | 📅 2026-11-25 - Interactive, animated charts, maps and gauges drawn with SkiaSharp.
+* [Mapsui](https://github.com/Mapsui/Mapsui) ⭐ 1,584 | 🐛 158 | 🌐 C# | 📅 2026-11-25 - Map component with tile layers, vector data and touch interaction.
 * [CSharpMath](https://github.com/verybadcat/CSharpMath) ⭐ 459 | 🐛 90 | 🌐 C# | 📅 2026-08-31 - LaTeX math typesetting and rendering, ported from iosMath.
-* [WinUI.TableView](https://github.com/w-ahmad/WinUI.TableView) ⭐ 372 | 🐛 59 | 🌐 C# | 📅 2026-11-24 - Lightweight, fast DataGrid control with Excel-like column filtering, sorting, editing and export.
+* [WinUI.TableView](https://github.com/w-ahmad/WinUI.TableView) ⭐ 373 | 🐛 56 | 🌐 C# | 📅 2026-11-25 - Lightweight, fast DataGrid control with Excel-like column filtering, sorting, editing and export.
 * [FluentIcons](https://github.com/davidxuang/FluentIcons) ⭐ 226 | 🐛 2 | 🌐 C# | 📅 2026-11-19 - Fluent UI System Icons as icon controls, icon sources and markup extensions.
-* [Broadside](https://github.com/michaelstonis/Broadside) ⭐ 112 | 🐛 40 | 🌐 C# | 📅 2026-11-24 - Fully managed PDF library for reading, writing, editing and rendering, with an embeddable viewer.
-* [WinUI.Dock](https://github.com/qian-o/WinUI.Dock) ⭐ 92 | 🐛 4 | 🌐 C# | 📅 2026-09-21 - Visual Studio-style docking controls, with limited floating-window support.
-* [DesktopFlyouts](https://github.com/0x5bfa/DesktopFlyouts) ⭐ 51 | 🐛 5 | 🌐 C# | 📅 2026-11-24 - Desktop flyouts shown from tray icons or programmatically, including on Linux with X11.
+* [Broadside](https://github.com/michaelstonis/Broadside) ⭐ 114 | 🐛 34 | 🌐 C# | 📅 2026-11-25 - Fully managed PDF library for reading, writing, editing and rendering, with an embeddable viewer.
+* [WinUI.Dock](https://github.com/qian-o/WinUI.Dock) ⭐ 93 | 🐛 4 | 🌐 C# | 📅 2026-09-21 - Visual Studio-style docking controls, with limited floating-window support.
+* [DesktopFlyouts](https://github.com/0x5bfa/DesktopFlyouts) ⭐ 52 | 🐛 5 | 🌐 C# | 📅 2026-11-25 - Desktop flyouts shown from tray icons or programmatically, including on Linux with X11.
 * [RibbonSpace](https://github.com/wieslawsoltes/RibbonSpace) ⭐ 36 | 🐛 6 | 🌐 C# | 📅 2026-11-19 - Office-style ribbon with adaptive layouts, contextual tabs, backstage, Quick Access Toolbar and KeyTips.
-* [Pysar](https://github.com/MriyaLab/Pysar) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2026-11-01 - Report engine for paginated documents with an in-app report view, PDF export, printing and sharing.
+* [Pysar](https://github.com/MriyaLab/Pysar) ⭐ 33 | 🐛 0 | 🌐 C# | 📅 2026-11-01 - Report engine for paginated documents with an in-app report view, PDF export, printing and sharing.
 * [Uno Monaco Editor](https://github.com/unoplatform/uno.monaco.editor) ⭐ 22 | 🐛 1 | 🌐 C# | 📅 2026-11-12 - Monaco (VS Code) code editor control with language providers, diff view and two-way text binding for WebAssembly and desktop.
 * [UnoEdit](https://github.com/lextudio/UnoEdit) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-08-06 - Code editor control with syntax highlighting, ported from AvalonEdit.
 * [UnoKeyboard](https://github.com/mcNets/UnoKeyboard) ⭐ 10 | 🐛 1 | 🌐 C# | 📅 2026-01-31 - On-screen virtual keyboard for touch-screen desktop, Windows and WebAssembly apps.
-* [UnoDock](https://github.com/wieslawsoltes/UnoDock) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-11-18 - IDE-style docking with documents, tool windows, auto-hide, floating windows and themes.
+* [UnoDock](https://github.com/wieslawsoltes/UnoDock) ⭐ 6 | 🐛 2 | 🌐 C# | 📅 2026-11-25 - IDE-style docking with documents, tool windows, auto-hide, floating windows and themes.
 * [Uno ColorCode](https://github.com/unoplatform/Uno.ColorCode-Universal) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-11-12 - Syntax highlighting library that renders source code into a RichTextBlock or HTML.
 * [ScreenKeyboard](https://github.com/wieslawsoltes/ScreenKeyboardControl) ⭐ 1 | 🐛 4 | 🌐 C# | 📅 2026-11-17 - Themable on-screen keyboard with glide typing, gestures, emoji and 90+ layouts.
 
 ### Graphics
 
-* [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,640 | 🐛 920 | 🌐 C# | 📅 2026-11-24 - Cross-platform 2D graphics API based on Google's Skia, with XAML canvas views.
-* [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) ⭐ 750 | 🐛 3 | 🌐 C# | 📅 2026-11-23 - SVG rendering library with animated SVG controls and inline SVG authoring in XAML.
+* [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,642 | 🐛 919 | 🌐 C# | 📅 2026-11-25 - Cross-platform 2D graphics API based on Google's Skia, with XAML canvas views.
+* [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) ⭐ 751 | 🐛 3 | 🌐 C# | 📅 2026-11-23 - SVG rendering library with animated SVG controls and inline SVG authoring in XAML.
 * [ProGPU](https://github.com/wieslawsoltes/ProGPU) ⭐ 194 | 🐛 25 | 🌐 C# | 📅 2026-11-23 - WebGPU-based rendering, composition, vector and text engine with an embeddable host control.
-* [Zenith.NET](https://github.com/qian-o/Zenith.NET) ⭐ 191 | 🐛 1 | 🌐 C# | 📅 2026-11-24 - GPU graphics and compute abstraction over DirectX 12, Metal and Vulkan, with a rendering view control.
+* [Zenith.NET](https://github.com/qian-o/Zenith.NET) ⭐ 191 | 🐛 1 | 🌐 C# | 📅 2026-11-25 - GPU graphics and compute abstraction over DirectX 12, Metal and Vulkan, with a rendering view control.
 * [Ab4d.SharpEngine](https://www.ab4d.com/SharpEngine.aspx) - Commercial cross-platform 3D rendering engine built on Vulkan, free for non-commercial open-source projects.
 * [SKCanvasElement](https://platform.uno/docs/articles/controls/SKCanvasElement.html) - Hardware-accelerated SkiaSharp drawing hosted directly in the XAML visual tree.
 * [GLCanvasElement](https://platform.uno/docs/articles/controls/GLCanvasElement.html) - OpenGL rendering through Silk.NET inside the XAML visual tree, with WebGL on WebAssembly.
@@ -161,25 +161,25 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ### MVVM
 
-* [R3](https://github.com/Cysharp/R3) ⭐ 4,051 | 🐛 36 | 🌐 C# | 📅 2026-10-08 - Modern reimplementation of Reactive Extensions, with an extension package for dispatcher-timer and rendering-frame providers.
+* [R3](https://github.com/Cysharp/R3) ⭐ 4,053 | 🐛 36 | 🌐 C# | 📅 2026-10-08 - Modern reimplementation of Reactive Extensions, with an extension package for dispatcher-timer and rendering-frame providers.
 * [Shiny Mediator](https://github.com/shinyorg/mediator) ⭐ 55 | 🐛 0 | 🌐 C# | 📅 2026-11-24 - Mediator pattern library with app middleware for caching, offline, resilience and main-thread dispatch.
-* [Microsoft.UI.Reactor for Uno](https://github.com/unoplatform/Uno.microsoft-ui-reactor) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2026-11-24 - Experimental port of Microsoft's React-style framework for building UI from C# components and hooks without XAML.
+* [Microsoft.UI.Reactor for Uno](https://github.com/unoplatform/Uno.microsoft-ui-reactor) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2026-11-25 - Experimental port of Microsoft's React-style framework for building UI from C# components and hooks without XAML.
 * [Chinook.DynamicMvvm](https://github.com/nventive/Chinook.DynamicMvvm) ⭐ 12 | 🐛 5 | 🌐 C# | 📅 2026-01-20 - Declarative and extensible ViewModels, properties and commands, by nventive.
 * [Chinook.Navigation](https://github.com/nventive/Chinook.Navigation) ⭐ 11 | 🐛 3 | 🌐 C# | 📅 2026-01-19 - ViewModel-first stack, sections and modal navigation, by nventive.
 * [XAML Behaviors for Uno](https://github.com/unoplatform/Uno.XamlBehaviors) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-11-12 - Port of XAML Behaviors with triggers, actions and InvokeCommandAction for non-Windows targets.
 * [Singulink UI Toolkit](https://github.com/Singulink/Singulink.UI) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2026-11-19 - Strongly typed, deep-linkable MVVM navigation plus a task runner, XAML helpers and trimmed Fluent icon packs.
-* [ReactiveUI.Uno](https://github.com/reactiveui/ReactiveUI.Uno) ⭐ 2 | 🐛 8 | 🌐 C# | 📅 2026-11-24 - ReactiveUI integration with view bases, activation, routing, bindings and schedulers.
+* [ReactiveUI.Uno](https://github.com/reactiveui/ReactiveUI.Uno) ⭐ 2 | 🐛 8 | 🌐 C# | 📅 2026-11-25 - ReactiveUI integration with view bases, activation, routing, bindings and schedulers.
 * [MVx.Observable](https://www.nuget.org/packages/MVx.Observable/) - A (mostly) unopinionated, light-weight alternative to ReactiveUI provided as a library *not a framework*.
 * [Prism](https://prismlibrary.com/) - Framework for building loosely coupled, modular, maintainable, and testable XAML applications.
 * [Microsoft MVVM Toolkit](https://learn.microsoft.com/dotnet/communitytoolkit/mvvm/) - Modern, fast, and modular MVVM library.
 
 ### Dependency Injection
 
-* [Pure.DI](https://github.com/DevTeam/Pure.DI) ⭐ 851 | 🐛 3 | 🌐 C# | 📅 2026-11-24 - Generates dependency injection object graphs at compile time without requiring a runtime container by [Nikolay Pianikov](https://github.com/NikolayPianikov).
+* [Pure.DI](https://github.com/DevTeam/Pure.DI) ⭐ 852 | 🐛 3 | 🌐 C# | 📅 2026-11-25 - Generates dependency injection object graphs at compile time without requiring a runtime container by [Nikolay Pianikov](https://github.com/NikolayPianikov).
 
 ### Integrations
 
-* [Shiny](https://github.com/shinyorg/shiny) ⭐ 1,593 | 🐛 1 | 🌐 C# | 📅 2026-11-24 - Device and background services such as jobs, Bluetooth LE, push notifications, geofencing and GPS.
+* [Shiny](https://github.com/shinyorg/shiny) ⭐ 1,594 | 🐛 1 | 🌐 C# | 📅 2026-11-25 - Device and background services such as jobs, Bluetooth LE, push notifications, geofencing and GPS.
 * [32feet.NET](https://github.com/inthehand/32feet) ⭐ 994 | 🐛 155 | 🌐 C# | 📅 2026-11-18 - Bluetooth Classic, Bluetooth LE and NFC library with an API modeled on Web Bluetooth.
 * [Datasync Community Toolkit](https://github.com/CommunityToolkit/Datasync) ⭐ 186 | 🐛 3 | 🌐 C# | 📅 2026-11-13 - Offline-capable data synchronization between client apps and an ASP.NET Core backend.
 * [Uno.SQLitePCLRaw.Wasm](https://github.com/unoplatform/Uno.SQLitePCLRaw.Wasm) ⭐ 36 | 🐛 0 | 🌐 C# | 📅 2024-10-26 - SQLitePCLRaw provider that brings SQLite, sqlite-net and EF Core to WebAssembly apps.
@@ -190,7 +190,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 * [C# Markup 2](https://github.com/VincentH-Net/CSharpForMarkup) ⭐ 842 | 🐛 7 | 🌐 C# | 📅 2026-05-29 - Concise, declarative C# UI markup with Uno Toolkit, Navigation and MVUX support and `dotnet new` templates.
 * [Elmish.Uno](https://github.com/xperiandri/Elmish.Uno) ⭐ 16 | 🐛 10 | 🌐 F# | 📅 2025-07-22 - Half-Elmish framework for apps written in F#.
-* [Majorsilence.Forms](https://github.com/majorsilence/Majorsilence.Forms) ⭐ 12 | 🐛 18 | 🌐 C# | 📅 2026-11-24 - Cross-platform Windows Forms API that runs WinForms-style apps on desktop, mobile and WebAssembly.
+* [Majorsilence.Forms](https://github.com/majorsilence/Majorsilence.Forms) ⭐ 13 | 🐛 22 | 🌐 C# | 📅 2026-11-25 - Cross-platform Windows Forms API that runs WinForms-style apps on desktop, mobile and WebAssembly.
 * [SignalR](https://learn.microsoft.com/aspnet/core/signalr/introduction) - [Cross-Platform Real-Time Communication with Uno & SignalR](https://ian.bebbs.co.uk/posts/UnoChat) - Integration example for the SignalR framework.
 * [C# Markup](https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Markup/Overview.html) - Fluent C# API for declaring UI, including bindings, styles and resources, as an alternative to XAML.
 * [.NET MAUI Embedding](https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Maui/MauiOverview.html) - Hosts .NET MAUI controls, including third-party vendor suites, inside apps on iOS, Android, macOS and Windows.
@@ -222,10 +222,10 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 
 ## Open-source apps
 
-* [Sefirah](https://github.com/shrimqy/Sefirah) ⭐ 3,130 | 🐛 174 | 🌐 C# | 📅 2026-11-20 - Phone Link alternative that syncs clipboard, notifications, files and media between Android and the desktop.
+* [Sefirah](https://github.com/shrimqy/Sefirah) ⭐ 3,132 | 🐛 174 | 🌐 C# | 📅 2026-11-20 - Phone Link alternative that syncs clipboard, notifications, files and media between Android and the desktop.
 * [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/tree/main/Uno) ⭐ 2,551 | 🐛 109 | 🌐 C# | 📅 2026-10-08 - Source code of the Uno Platform version of NuGet Package Explorer.
 * [2fast](https://github.com/2fast-team/2fast) ⭐ 575 | 🐛 36 | 🌐 C# | 📅 2026-11-21 - Two-factor TOTP authenticator for Windows, Android, iOS, Linux and macOS.
-* [Eppie](https://github.com/Eppie-io/Eppie-App) ⭐ 421 | 🐛 65 | 🌐 C# | 📅 2026-11-23 - Encrypted peer-to-peer email client that also works with regular IMAP/SMTP accounts.
+* [Eppie](https://github.com/Eppie-io/Eppie-App) ⭐ 422 | 🐛 65 | 🌐 C# | 📅 2026-11-25 - Encrypted peer-to-peer email client that also works with regular IMAP/SMTP accounts.
 * [Uno Calculator](https://github.com/unoplatform/calculator) ⭐ 414 | 🐛 61 | 🌐 C# | 📅 2026-10-14 - Port of the open-source Windows Calculator to C# for iOS, macOS, Android, WebAssembly and Linux.
 * [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) ⭐ 287 | 🐛 7 | 🌐 C# | 📅 2026-11-23 - File encryption app that protects folders as vaults with on-the-fly encryption.
 * [Uno Playground](https://github.com/unoplatform/Uno.Playground) ⭐ 220 | 🐛 28 | 🌐 C# | 📅 2026-10-21 - Source code of the in-browser playground, with UI samples.
@@ -238,11 +238,11 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 * [Scrubbler 2](https://github.com/Scrubbler-Dev/Scrubbler-2) ⭐ 32 | 🐛 1 | 🌐 C# | 📅 2026-09-23 - Plugin-based manual scrobbler for listens that a player or service failed to submit.
 * [StoryCAD](https://github.com/storybuilder-org/StoryCAD) ⭐ 31 | 🐛 23 | 🌐 C# | 📅 2026-11-24 - Free outlining tool that helps fiction writers plan characters, plots and settings.
 * [TextSpace](https://github.com/wieslawsoltes/TextSpace) ⭐ 20 | 🐛 1 | 🌐 C# | 📅 2026-09-30 - Local-first word processor with paginated editing, a ribbon and DOCX/PDF export, running on desktop and in the browser.
-* [Sentry Desktop Crash Reporter](https://github.com/getsentry/sentry-desktop-crash-reporter) ⭐ 16 | 🐛 7 | 🌐 C# | 📅 2026-11-24 - Sentry's cross-platform crash reporter that asks users for feedback and consent before submitting a report.
-* [Celbridge](https://github.com/celbridge-org/celbridge) ⭐ 14 | 🐛 64 | 🌐 C# | 📅 2026-11-24 - Workbench for building HTML-based tools for game dev teams, with Python scripting and spreadsheet support.
+* [Sentry Desktop Crash Reporter](https://github.com/getsentry/sentry-desktop-crash-reporter) ⭐ 16 | 🐛 8 | 🌐 C# | 📅 2026-11-25 - Sentry's cross-platform crash reporter that asks users for feedback and consent before submitting a report.
+* [Celbridge](https://github.com/celbridge-org/celbridge) ⭐ 14 | 🐛 67 | 🌐 C# | 📅 2026-11-25 - Workbench for building HTML-based tools for game dev teams, with Python scripting and spreadsheet support.
 * [SubZero Framework Edition](https://github.com/TekuSP/SubZeroFramework) ⭐ 13 | 🐛 7 | 🌐 C# | 📅 2026-11-19 - Fan control and thermal telemetry app for Framework laptops on Windows and Linux.
 * [DotUninstall](https://github.com/lextudio/DotUninstall) ⭐ 12 | 🐛 1 | 🌐 C# | 📅 2026-11-15 - Graphical front end for the dotnet-core-uninstall tool that removes old .NET SDKs and runtimes on Windows and macOS.
-* [Matroska Batch Flow](https://github.com/TimGels/Matroska-Batch-Flow) ⭐ 11 | 🐛 13 | 🌐 C# | 📅 2026-11-24 - Batch editor for Matroska (MKV) container and track properties across many files.
+* [Matroska Batch Flow](https://github.com/TimGels/Matroska-Batch-Flow) ⭐ 11 | 🐛 14 | 🌐 C# | 📅 2026-11-25 - Batch editor for Matroska (MKV) container and track properties across many files.
 * [Recurrents](https://github.com/morning4coffe-dev/recurrents) ⭐ 11 | 🐛 16 | 🌐 C# | 📅 2026-08-22 - Subscription tracker with payment reminders and spending overview.
 * [Pāli Practice](https://github.com/DhammaBytes/PaliPractice) ⭐ 9 | 🐛 1 | 🌐 C# | 📅 2026-09-14 - Flashcard app that uses spaced repetition to drill Pāli noun declensions and verb conjugations.
 * [Elapsed](https://github.com/hackclub/elapsed) ⭐ 9 | 🐛 27 | 🌐 C# | 📅 2026-07-01 - Desktop and mobile client for Hack Club's Lapse timelapse programme, with a companion CLI.
@@ -250,7 +250,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 * [HouzLinc](https://github.com/Lakeside-Apps/HouzLinc) ⭐ 5 | 🐛 43 | 🌐 C# | 📅 2026-11-11 - Local-network configuration app for Insteon home automation devices and scenes.
 * [CODuo](https://github.com/ibebbs/CODuo) ⭐ 4 | 🐛 3 | 🌐 C# | 📅 2024-07-09 - Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.
 * [MZikmund.dev](https://github.com/MartinZikmund/mzikmund) ⭐ 4 | 🐛 84 | 🌐 C# | 📅 2026-11-21 - Personal website and blog platform with an ASP.NET Core backend and a cross-platform reader and admin app.
-* [RoMi](https://github.com/DrHardReset/RoMi) ⭐ 4 | 🐛 4 | 🌐 C# | 📅 2026-11-24 - Calculator for the SysEx MIDI messages that remote-control Roland keyboards and synthesizers.
+* [RoMi](https://github.com/DrHardReset/RoMi) ⭐ 4 | 🐛 4 | 🌐 C# | 📅 2026-11-25 - Calculator for the SysEx MIDI messages that remote-control Roland keyboards and synthesizers.
 * [Daily Reflection](https://github.com/kazo0/DailyReflection) ⭐ 4 | 🐛 4 | 🌐 C# | 📅 2026-11-14 - Reader for the A.A. Daily Reflections, migrated in place from Xamarin.Forms and live on Google Play and the App Store.
 * [Salmon Egg](https://github.com/salmonloop/salmon-egg) ⭐ 2 | 🐛 7 | 🌐 C# | 📅 2026-10-14 - Desktop client for AI agents over the Agent Client Protocol, with session history, tool-call review and terminal workflows.
 * [Fluent Stopwatch](https://github.com/MartinZikmund/stopwatch) ⭐ 1 | 🐛 51 | 🌐 C# | 📅 2026-11-13 - Stopwatch with multiple timers, laps and history, also usable in the browser.
@@ -360,4 +360,4 @@ Your contributions are welcome! Please read the [contribution guidelines](contri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
